@@ -1,0 +1,463 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+SP2,12/09/2020,15:00,Ponferradina,Castellon,1,2,A
+SP2,12/09/2020,17:15,Leganes,Las Palmas,1,0,H
+SP2,12/09/2020,17:15,Sp Gijon,Logrones,1,0,H
+SP2,12/09/2020,20:00,Espanol,Albacete,3,0,H
+SP2,13/09/2020,11:00,Oviedo,Cartagena,0,0,D
+SP2,13/09/2020,15:00,Mallorca,Vallecano,0,1,A
+SP2,13/09/2020,17:15,Fuenlabrada,Lugo,2,0,H
+SP2,13/09/2020,17:15,Mirandes,Alcorcon,0,0,D
+SP2,13/09/2020,20:00,Tenerife,Malaga,2,0,H
+SP2,19/09/2020,15:00,Mirandes,Oviedo,1,1,D
+SP2,19/09/2020,17:15,Alcorcon,Tenerife,2,0,H
+SP2,19/09/2020,17:15,Castellon,Malaga,0,1,A
+SP2,19/09/2020,20:00,Vallecano,Sabadell,2,1,H
+SP2,20/09/2020,11:00,Lugo,Leganes,2,1,H
+SP2,20/09/2020,15:00,Espanol,Mallorca,0,0,D
+SP2,20/09/2020,17:15,Albacete,Ponferradina,0,2,A
+SP2,20/09/2020,17:15,Cartagena,Sp Gijon,0,1,A
+SP2,20/09/2020,19:30,Las Palmas,Fuenlabrada,3,3,D
+SP2,26/09/2020,15:00,Zaragoza,Las Palmas,2,2,D
+SP2,26/09/2020,17:15,Logrones,Castellon,1,1,D
+SP2,26/09/2020,17:15,Malaga,Alcorcon,1,0,H
+SP2,26/09/2020,17:15,Sp Gijon,Girona,2,0,H
+SP2,26/09/2020,19:30,Fuenlabrada,Albacete,1,0,H
+SP2,27/09/2020,11:00,Lugo,Almeria,0,2,A
+SP2,27/09/2020,15:00,Mallorca,Sabadell,1,0,H
+SP2,27/09/2020,17:15,Oviedo,Espanol,0,2,A
+SP2,27/09/2020,17:15,Ponferradina,Vallecano,3,0,H
+SP2,27/09/2020,17:15,Tenerife,Mirandes,1,2,A
+SP2,27/09/2020,19:30,Leganes,Cartagena,3,1,H
+SP2,03/10/2020,15:00,Alcorcon,Zaragoza,0,0,D
+SP2,03/10/2020,15:00,Mirandes,Ponferradina,0,1,A
+SP2,03/10/2020,17:15,Albacete,Oviedo,1,1,D
+SP2,03/10/2020,17:15,Mallorca,Tenerife,2,0,H
+SP2,03/10/2020,19:30,Las Palmas,Logrones,2,1,H
+SP2,03/10/2020,20:00,Vallecano,Malaga,4,0,H
+SP2,04/10/2020,11:00,Girona,Fuenlabrada,0,1,A
+SP2,04/10/2020,15:00,Sabadell,Espanol,0,1,A
+SP2,04/10/2020,17:15,Almeria,Sp Gijon,0,1,A
+SP2,04/10/2020,17:15,Castellon,Leganes,2,0,H
+SP2,04/10/2020,19:30,Cartagena,Lugo,2,1,H
+SP2,10/10/2020,12:00,Sabadell,Mirandes,0,2,A
+SP2,10/10/2020,15:00,Espanol,Alcorcon,1,0,H
+SP2,10/10/2020,15:00,Logrones,Almeria,1,0,H
+SP2,10/10/2020,17:30,Tenerife,Vallecano,1,0,H
+SP2,11/10/2020,11:00,Fuenlabrada,Castellon,1,1,D
+SP2,11/10/2020,11:00,Lugo,Mallorca,0,1,A
+SP2,11/10/2020,15:00,Leganes,Girona,0,1,A
+SP2,11/10/2020,15:00,Malaga,Las Palmas,0,0,D
+SP2,11/10/2020,17:00,Zaragoza,Albacete,1,0,H
+SP2,11/10/2020,17:30,Ponferradina,Cartagena,0,2,A
+SP2,11/10/2020,20:00,Oviedo,Sp Gijon,1,0,H
+SP2,17/10/2020,15:00,Albacete,Sabadell,3,0,H
+SP2,17/10/2020,15:00,Castellon,Lugo,0,1,A
+SP2,17/10/2020,17:15,Cartagena,Fuenlabrada,1,1,D
+SP2,17/10/2020,17:15,Las Palmas,Almeria,2,0,H
+SP2,17/10/2020,19:30,Logrones,Leganes,0,1,A
+SP2,18/10/2020,15:00,Vallecano,Espanol,1,0,H
+SP2,18/10/2020,17:15,Mirandes,Mallorca,0,0,D
+SP2,18/10/2020,17:15,Zaragoza,Malaga,1,2,A
+SP2,18/10/2020,19:30,Girona,Oviedo,1,0,H
+SP2,18/10/2020,20:00,Sp Gijon,Tenerife,1,1,D
+SP2,21/10/2020,15:30,Espanol,Mirandes,2,0,H
+SP2,21/10/2020,18:00,Las Palmas,Castellon,2,1,H
+SP2,21/10/2020,18:00,Lugo,Girona,3,0,H
+SP2,21/10/2020,18:00,Ponferradina,Tenerife,1,0,H
+SP2,21/10/2020,20:30,Almeria,Cartagena,1,1,D
+SP2,21/10/2020,20:30,Fuenlabrada,Logrones,0,0,D
+SP2,22/10/2020,15:30,Leganes,Zaragoza,1,0,H
+SP2,22/10/2020,20:30,Malaga,Sp Gijon,1,0,H
+SP2,22/10/2020,18:00,Mallorca,Albacete,0,0,D
+SP2,22/10/2020,18:00,Oviedo,Vallecano,0,0,D
+SP2,24/10/2020,17:15,Cartagena,Las Palmas,3,0,H
+SP2,24/10/2020,17:15,Logrones,Lugo,2,3,A
+SP2,24/10/2020,19:30,Almeria,Fuenlabrada,3,0,H
+SP2,24/10/2020,19:30,Castellon,Girona,0,1,A
+SP2,25/10/2020,15:00,Sp Gijon,Ponferradina,2,1,H
+SP2,25/10/2020,17:15,Leganes,Oviedo,2,1,H
+SP2,25/10/2020,17:15,Tenerife,Espanol,0,0,D
+SP2,25/10/2020,19:30,Albacete,Vallecano,2,1,H
+SP2,25/10/2020,19:30,Malaga,Mirandes,1,1,D
+SP2,25/10/2020,20:00,Zaragoza,Sabadell,0,0,D
+SP2,26/10/2020,17:00,Alcorcon,Mallorca,0,2,A
+SP2,27/10/2020,18:00,Girona,Cartagena,2,1,H
+SP2,28/10/2020,18:00,Albacete,Las Palmas,1,1,D
+SP2,28/10/2020,18:00,Castellon,Almeria,1,2,A
+SP2,28/10/2020,18:00,Espanol,Ponferradina,2,0,H
+SP2,28/10/2020,20:30,Oviedo,Logrones,2,3,A
+SP2,29/10/2020,15:30,Alcorcon,Sp Gijon,1,2,A
+SP2,29/10/2020,18:00,Mallorca,Malaga,3,1,H
+SP2,29/10/2020,18:00,Mirandes,Zaragoza,1,0,H
+SP2,29/10/2020,18:00,Tenerife,Lugo,1,1,D
+SP2,29/10/2020,20:30,Sabadell,Leganes,1,0,H
+SP2,29/10/2020,20:30,Vallecano,Fuenlabrada,2,0,H
+SP2,31/10/2020,15:00,Cartagena,Albacete,3,1,H
+SP2,31/10/2020,17:15,Las Palmas,Oviedo,1,2,A
+SP2,01/11/2020,13:00,Leganes,Mirandes,1,0,H
+SP2,01/11/2020,15:00,Zaragoza,Mallorca,0,0,D
+SP2,01/11/2020,17:15,Fuenlabrada,Tenerife,1,1,D
+SP2,01/11/2020,17:15,Ponferradina,Sabadell,0,3,A
+SP2,01/11/2020,19:30,Lugo,Vallecano,1,0,H
+SP2,01/11/2020,20:00,Almeria,Girona,0,0,D
+SP2,02/11/2020,15:00,Logrones,Alcorcon,1,0,H
+SP2,02/11/2020,17:15,Sp Gijon,Castellon,1,0,H
+SP2,02/11/2020,20:00,Malaga,Espanol,0,3,A
+SP2,04/11/2020,18:00,Zaragoza,Girona,2,2,D
+SP2,05/11/2020,18:00,Alcorcon,Ponferradina,0,1,A
+SP2,05/11/2020,18:00,Sabadell,Almeria,1,2,A
+SP2,06/11/2020,20:00,Albacete,Leganes,0,0,D
+SP2,07/11/2020,15:00,Cartagena,Logrones,0,1,A
+SP2,07/11/2020,17:15,Mirandes,Sp Gijon,1,0,H
+SP2,07/11/2020,20:00,Espanol,Lugo,2,1,H
+SP2,08/11/2020,13:00,Sabadell,Malaga,1,2,A
+SP2,08/11/2020,15:00,Alcorcon,Fuenlabrada,0,3,A
+SP2,08/11/2020,15:00,Vallecano,Almeria,0,1,A
+SP2,08/11/2020,17:15,Mallorca,Ponferradina,3,0,H
+SP2,08/11/2020,17:15,Oviedo,Castellon,4,0,H
+SP2,08/11/2020,19:30,Tenerife,Zaragoza,1,0,H
+SP2,09/11/2020,20:00,Girona,Las Palmas,1,1,D
+SP2,13/11/2020,20:00,Zaragoza,Oviedo,1,2,A
+SP2,14/11/2020,13:00,Fuenlabrada,Espanol,1,1,D
+SP2,14/11/2020,15:15,Almeria,Mirandes,2,1,H
+SP2,14/11/2020,17:30,Girona,Mallorca,0,1,A
+SP2,14/11/2020,17:30,Lugo,Albacete,1,0,H
+SP2,15/11/2020,13:00,Leganes,Alcorcon,1,0,H
+SP2,15/11/2020,15:15,Ponferradina,Malaga,1,1,D
+SP2,15/11/2020,17:30,Castellon,Cartagena,2,1,H
+SP2,15/11/2020,17:30,Logrones,Sabadell,1,0,H
+SP2,15/11/2020,21:00,Las Palmas,Tenerife,1,0,H
+SP2,16/11/2020,20:00,Sp Gijon,Vallecano,1,1,D
+SP2,20/11/2020,18:00,Alcorcon,Lugo,1,0,H
+SP2,20/11/2020,20:00,Espanol,Girona,1,2,A
+SP2,21/11/2020,13:00,Malaga,Leganes,1,2,A
+SP2,21/11/2020,15:00,Mirandes,Cartagena,4,1,H
+SP2,21/11/2020,17:15,Vallecano,Castellon,2,1,H
+SP2,21/11/2020,19:30,Oviedo,Fuenlabrada,1,1,D
+SP2,22/11/2020,13:00,Sabadell,Las Palmas,3,1,H
+SP2,22/11/2020,15:00,Mallorca,Sp Gijon,0,0,D
+SP2,22/11/2020,17:15,Tenerife,Logrones,0,1,A
+SP2,22/11/2020,20:00,Ponferradina,Zaragoza,2,1,H
+SP2,23/11/2020,20:00,Albacete,Almeria,1,2,A
+SP2,24/11/2020,18:00,Castellon,Alcorcon,0,2,A
+SP2,24/11/2020,18:00,Girona,Malaga,0,1,A
+SP2,24/11/2020,20:30,Lugo,Oviedo,0,0,D
+SP2,25/11/2020,18:00,Las Palmas,Mirandes,0,2,A
+SP2,25/11/2020,18:00,Sp Gijon,Sabadell,3,1,H
+SP2,25/11/2020,18:00,Zaragoza,Vallecano,1,2,A
+SP2,25/11/2020,20:30,Cartagena,Mallorca,1,2,A
+SP2,25/11/2020,20:30,Fuenlabrada,Ponferradina,1,1,D
+SP2,26/11/2020,18:00,Leganes,Espanol,2,0,H
+SP2,26/11/2020,18:00,Logrones,Albacete,2,0,H
+SP2,26/11/2020,20:30,Almeria,Tenerife,2,0,H
+SP2,27/11/2020,18:00,Alcorcon,Girona,1,0,H
+SP2,27/11/2020,20:00,Malaga,Lugo,2,2,D
+SP2,28/11/2020,15:00,Sabadell,Fuenlabrada,1,2,A
+SP2,28/11/2020,17:15,Vallecano,Cartagena,0,0,D
+SP2,28/11/2020,19:30,Mirandes,Castellon,1,1,D
+SP2,29/11/2020,13:00,Albacete,Tenerife,0,2,A
+SP2,29/11/2020,15:00,Espanol,Zaragoza,2,0,H
+SP2,29/11/2020,17:15,Mallorca,Logrones,4,0,H
+SP2,29/11/2020,17:15,Ponferradina,Leganes,3,2,H
+SP2,29/11/2020,20:00,Las Palmas,Sp Gijon,3,2,H
+SP2,30/11/2020,20:00,Oviedo,Almeria,1,2,A
+SP2,01/12/2020,18:00,Fuenlabrada,Malaga,0,2,A
+SP2,01/12/2020,20:30,Girona,Mirandes,1,0,H
+SP2,02/12/2020,18:00,Cartagena,Espanol,1,3,A
+SP2,02/12/2020,18:00,Leganes,Vallecano,1,0,H
+SP2,02/12/2020,18:00,Logrones,Ponferradina,1,2,A
+SP2,02/12/2020,20:00,Castellon,Zaragoza,1,0,H
+SP2,02/12/2020,20:30,Lugo,Las Palmas,1,1,D
+SP2,03/12/2020,18:00,Almeria,Mallorca,0,1,A
+SP2,03/12/2020,18:00,Oviedo,Alcorcon,1,1,D
+SP2,03/12/2020,18:00,Tenerife,Sabadell,1,2,A
+SP2,03/12/2020,20:30,Sp Gijon,Albacete,0,0,D
+SP2,05/12/2020,13:00,Vallecano,Logrones,2,1,H
+SP2,05/12/2020,15:00,Ponferradina,Las Palmas,0,0,D
+SP2,05/12/2020,17:15,Mirandes,Lugo,0,0,D
+SP2,05/12/2020,19:30,Malaga,Cartagena,1,2,A
+SP2,06/12/2020,13:00,Alcorcon,Almeria,0,1,A
+SP2,06/12/2020,15:00,Espanol,Sp Gijon,2,0,H
+SP2,06/12/2020,17:15,Albacete,Girona,0,2,A
+SP2,06/12/2020,19:30,Sabadell,Oviedo,0,1,A
+SP2,06/12/2020,20:00,Zaragoza,Fuenlabrada,1,0,H
+SP2,07/12/2020,18:00,Tenerife,Leganes,0,0,D
+SP2,07/12/2020,20:00,Mallorca,Castellon,3,1,H
+SP2,09/12/2020,18:00,Almeria,Zaragoza,1,0,H
+SP2,09/12/2020,18:00,Sabadell,Alcorcon,1,1,D
+SP2,10/12/2020,18:00,Girona,Logrones,2,0,H
+SP2,11/12/2020,18:00,Lugo,Ponferradina,1,0,H
+SP2,11/12/2020,20:00,Oviedo,Tenerife,4,2,H
+SP2,12/12/2020,15:00,Leganes,Mallorca,0,1,A
+SP2,12/12/2020,17:15,Castellon,Albacete,3,0,H
+SP2,12/12/2020,19:30,Fuenlabrada,Mirandes,0,1,A
+SP2,13/12/2020,13:00,Logrones,Espanol,0,3,A
+SP2,13/12/2020,15:00,Almeria,Malaga,3,1,H
+SP2,13/12/2020,17:15,Las Palmas,Alcorcon,0,0,D
+SP2,13/12/2020,19:30,Cartagena,Sabadell,1,2,A
+SP2,13/12/2020,20:00,Sp Gijon,Zaragoza,1,0,H
+SP2,14/12/2020,18:00,Girona,Vallecano,0,0,D
+SP2,18/12/2020,18:00,Ponferradina,Oviedo,1,0,H
+SP2,19/12/2020,15:00,Sabadell,Castellon,1,1,D
+SP2,19/12/2020,17:15,Mallorca,Fuenlabrada,2,3,A
+SP2,19/12/2020,20:00,Zaragoza,Lugo,1,0,H
+SP2,20/12/2020,13:00,Alcorcon,Cartagena,2,1,H
+SP2,20/12/2020,15:00,Espanol,Almeria,2,1,H
+SP2,20/12/2020,17:15,Vallecano,Las Palmas,2,0,H
+SP2,20/12/2020,19:30,Malaga,Logrones,0,0,D
+SP2,21/12/2020,18:00,Mirandes,Albacete,0,2,A
+SP2,21/12/2020,20:00,Sp Gijon,Leganes,1,1,D
+SP2,21/12/2020,20:30,Tenerife,Girona,2,0,H
+SP2,02/01/2021,13:00,Fuenlabrada,Leganes,0,0,D
+SP2,02/01/2021,15:00,Vallecano,Alcorcon,2,1,H
+SP2,02/01/2021,17:15,Logrones,Mirandes,2,1,H
+SP2,02/01/2021,19:30,Cartagena,Zaragoza,1,1,D
+SP2,03/01/2021,13:00,Castellon,Tenerife,0,1,A
+SP2,03/01/2021,15:00,Las Palmas,Espanol,1,0,H
+SP2,03/01/2021,17:15,Albacete,Malaga,1,1,D
+SP2,03/01/2021,19:30,Almeria,Ponferradina,3,1,H
+SP2,03/01/2021,20:00,Oviedo,Mallorca,2,2,D
+SP2,04/01/2021,17:30,Girona,Sabadell,0,0,D
+SP2,04/01/2021,20:00,Lugo,Sp Gijon,0,0,D
+SP2,08/01/2021,20:00,Zaragoza,Logrones,2,0,H
+SP2,09/01/2021,17:15,Malaga,Oviedo,1,1,D
+SP2,10/01/2021,15:00,Mallorca,Las Palmas,0,1,A
+SP2,10/01/2021,17:15,Tenerife,Cartagena,3,0,H
+SP2,10/01/2021,20:00,Espanol,Castellon,2,0,H
+SP2,11/01/2021,18:00,Ponferradina,Girona,1,1,D
+SP2,11/01/2021,18:00,Sp Gijon,Fuenlabrada,2,1,H
+SP2,11/01/2021,20:30,Sabadell,Lugo,1,1,D
+SP2,19/01/2021,18:00,Mirandes,Vallecano,0,2,A
+SP2,22/01/2021,18:00,Fuenlabrada,Alcorcon,0,0,D
+SP2,22/01/2021,20:00,Albacete,Zaragoza,1,0,H
+SP2,23/01/2021,15:00,Vallecano,Mallorca,1,3,A
+SP2,23/01/2021,17:15,Girona,Espanol,1,0,H
+SP2,23/01/2021,17:15,Lugo,Tenerife,2,0,H
+SP2,23/01/2021,19:30,Malaga,Ponferradina,0,2,A
+SP2,24/01/2021,13:00,Almeria,Sabadell,2,2,D
+SP2,24/01/2021,15:00,Logrones,Oviedo,0,0,D
+SP2,24/01/2021,17:15,Castellon,Sp Gijon,2,0,H
+SP2,24/01/2021,19:30,Las Palmas,Leganes,2,1,H
+SP2,25/01/2021,20:00,Cartagena,Mirandes,0,2,A
+SP2,26/01/2021,18:00,Alcorcon,Albacete,1,2,A
+SP2,29/01/2021,20:00,Zaragoza,Ponferradina,1,0,H
+SP2,30/01/2021,15:00,Oviedo,Albacete,0,1,A
+SP2,30/01/2021,17:15,Alcorcon,Malaga,0,1,A
+SP2,30/01/2021,19:30,Mallorca,Girona,1,0,H
+SP2,30/01/2021,20:00,Almeria,Castellon,3,1,H
+SP2,31/01/2021,13:00,Sp Gijon,Cartagena,0,0,D
+SP2,31/01/2021,15:00,Espanol,Vallecano,2,3,A
+SP2,31/01/2021,17:15,Mirandes,Las Palmas,2,0,H
+SP2,31/01/2021,19:30,Tenerife,Fuenlabrada,1,1,D
+SP2,01/02/2021,18:00,Leganes,Lugo,3,2,H
+SP2,01/02/2021,20:00,Sabadell,Logrones,0,0,D
+SP2,05/02/2021,20:00,Albacete,Mallorca,0,1,A
+SP2,06/02/2021,15:00,Cartagena,Oviedo,2,0,H
+SP2,06/02/2021,17:15,Logrones,Sp Gijon,0,4,A
+SP2,06/02/2021,19:30,Fuenlabrada,Almeria,1,1,D
+SP2,07/02/2021,13:00,Girona,Leganes,0,2,A
+SP2,07/02/2021,15:00,Malaga,Zaragoza,1,2,A
+SP2,07/02/2021,17:15,Castellon,Mirandes,0,1,A
+SP2,07/02/2021,17:15,Vallecano,Tenerife,0,1,A
+SP2,07/02/2021,19:30,Las Palmas,Sabadell,0,1,A
+SP2,08/02/2021,18:00,Ponferradina,Alcorcon,2,0,H
+SP2,08/02/2021,20:00,Lugo,Espanol,1,1,D
+SP2,12/02/2021,20:00,Sabadell,Zaragoza,1,1,D
+SP2,13/02/2021,15:00,Cartagena,Vallecano,2,2,D
+SP2,13/02/2021,17:15,Mirandes,Girona,3,3,D
+SP2,13/02/2021,19:30,Tenerife,Ponferradina,1,0,H
+SP2,14/02/2021,13:00,Mallorca,Espanol,1,2,A
+SP2,14/02/2021,15:00,Almeria,Las Palmas,3,1,H
+SP2,14/02/2021,17:15,Alcorcon,Logrones,1,0,H
+SP2,14/02/2021,17:15,Leganes,Albacete,3,1,H
+SP2,14/02/2021,20:00,Sp Gijon,Malaga,1,0,H
+SP2,15/02/2021,18:00,Castellon,Fuenlabrada,1,2,A
+SP2,15/02/2021,20:00,Oviedo,Lugo,3,1,H
+SP2,17/02/2021,18:00,Leganes,Almeria,2,1,H
+SP2,19/02/2021,20:00,Ponferradina,Mirandes,1,0,H
+SP2,20/02/2021,15:00,Espanol,Sabadell,1,0,H
+SP2,20/02/2021,17:15,Albacete,Sp Gijon,0,1,A
+SP2,20/02/2021,19:30,Las Palmas,Cartagena,2,0,H
+SP2,21/02/2021,13:00,Leganes,Tenerife,1,0,H
+SP2,21/02/2021,15:00,Mallorca,Almeria,2,0,H
+SP2,21/02/2021,17:15,Girona,Castellon,2,1,H
+SP2,21/02/2021,19:30,Lugo,Logrones,1,1,D
+SP2,21/02/2021,20:00,Malaga,Vallecano,2,0,H
+SP2,22/02/2021,18:00,Fuenlabrada,Oviedo,2,2,D
+SP2,22/02/2021,20:00,Zaragoza,Alcorcon,0,1,A
+SP2,26/02/2021,18:00,Sabadell,Albacete,0,0,D
+SP2,26/02/2021,20:00,Cartagena,Leganes,1,0,H
+SP2,27/02/2021,15:00,Vallecano,Ponferradina,1,1,D
+SP2,27/02/2021,17:15,Almeria,Lugo,4,1,H
+SP2,27/02/2021,19:30,Castellon,Las Palmas,4,0,H
+SP2,27/02/2021,20:00,Logrones,Mallorca,0,1,A
+SP2,28/02/2021,13:00,Fuenlabrada,Girona,1,1,D
+SP2,28/02/2021,15:00,Sp Gijon,Espanol,1,1,D
+SP2,28/02/2021,17:15,Tenerife,Alcorcon,3,1,H
+SP2,28/02/2021,20:00,Oviedo,Zaragoza,1,0,H
+SP2,01/03/2021,18:00,Mirandes,Malaga,1,0,H
+SP2,05/03/2021,20:00,Espanol,Oviedo,1,1,D
+SP2,06/03/2021,15:00,Zaragoza,Tenerife,1,0,H
+SP2,06/03/2021,17:15,Las Palmas,Vallecano,1,1,D
+SP2,06/03/2021,17:15,Leganes,Castellon,0,0,D
+SP2,06/03/2021,19:30,Albacete,Logrones,1,1,D
+SP2,07/03/2021,13:00,Malaga,Sabadell,2,0,H
+SP2,07/03/2021,15:00,Ponferradina,Sp Gijon,2,2,D
+SP2,07/03/2021,17:15,Mallorca,Cartagena,2,1,H
+SP2,07/03/2021,20:00,Girona,Almeria,0,1,A
+SP2,08/03/2021,18:00,Alcorcon,Mirandes,4,0,H
+SP2,08/03/2021,20:00,Lugo,Fuenlabrada,0,0,D
+SP2,12/03/2021,18:00,Cartagena,Ponferradina,1,1,D
+SP2,12/03/2021,20:00,Vallecano,Zaragoza,3,2,H
+SP2,13/03/2021,15:00,Fuenlabrada,Las Palmas,1,2,A
+SP2,13/03/2021,17:15,Girona,Lugo,1,1,D
+SP2,13/03/2021,19:30,Castellon,Sabadell,2,1,H
+SP2,13/03/2021,20:00,Mirandes,Espanol,2,2,D
+SP2,14/03/2021,13:00,Logrones,Malaga,0,1,A
+SP2,14/03/2021,15:00,Sp Gijon,Mallorca,2,0,H
+SP2,14/03/2021,17:15,Tenerife,Albacete,2,0,H
+SP2,14/03/2021,19:30,Oviedo,Leganes,1,3,A
+SP2,15/03/2021,18:00,Almeria,Alcorcon,0,0,D
+SP2,19/03/2021,20:00,Las Palmas,Girona,1,2,A
+SP2,20/03/2021,15:00,Sabadell,Sp Gijon,1,1,D
+SP2,20/03/2021,17:15,Mallorca,Oviedo,0,0,D
+SP2,20/03/2021,19:30,Leganes,Fuenlabrada,0,2,A
+SP2,20/03/2021,20:00,Espanol,Logrones,4,0,H
+SP2,21/03/2021,13:00,Ponferradina,Almeria,2,1,H
+SP2,21/03/2021,15:00,Malaga,Tenerife,1,1,D
+SP2,21/03/2021,17:15,Lugo,Castellon,0,0,D
+SP2,21/03/2021,19:30,Alcorcon,Vallecano,0,3,A
+SP2,22/03/2021,18:00,Albacete,Cartagena,2,0,H
+SP2,22/03/2021,20:00,Zaragoza,Mirandes,1,0,H
+SP2,26/03/2021,18:00,Sp Gijon,Alcorcon,0,0,D
+SP2,26/03/2021,20:00,Castellon,Espanol,1,3,A
+SP2,27/03/2021,15:00,Oviedo,Ponferradina,1,1,D
+SP2,27/03/2021,17:15,Almeria,Leganes,1,1,D
+SP2,27/03/2021,19:30,Cartagena,Malaga,1,1,D
+SP2,27/03/2021,20:00,Logrones,Zaragoza,1,1,D
+SP2,28/03/2021,13:00,Lugo,Sabadell,0,1,A
+SP2,28/03/2021,15:00,Girona,Albacete,2,1,H
+SP2,28/03/2021,20:30,Tenerife,Las Palmas,1,1,D
+SP2,29/03/2021,20:00,Fuenlabrada,Mallorca,4,1,H
+SP2,30/03/2021,18:00,Alcorcon,Oviedo,1,1,D
+SP2,30/03/2021,18:30,Malaga,Almeria,0,3,A
+SP2,30/03/2021,20:00,Ponferradina,Logrones,2,2,D
+SP2,30/03/2021,20:30,Vallecano,Sp Gijon,0,1,A
+SP2,31/03/2021,18:00,Albacete,Castellon,0,1,A
+SP2,31/03/2021,18:00,Sabadell,Girona,2,2,D
+SP2,01/04/2021,16:00,Espanol,Fuenlabrada,4,0,H
+SP2,01/04/2021,18:00,Mallorca,Leganes,1,0,H
+SP2,01/04/2021,20:00,Las Palmas,Lugo,6,1,H
+SP2,01/04/2021,20:30,Zaragoza,Cartagena,0,0,D
+SP2,02/04/2021,20:00,Almeria,Vallecano,0,1,A
+SP2,03/04/2021,13:00,Logrones,Tenerife,1,0,H
+SP2,03/04/2021,15:00,Girona,Ponferradina,3,1,H
+SP2,03/04/2021,17:15,Castellon,Oviedo,1,0,H
+SP2,04/04/2021,13:00,Sp Gijon,Mirandes,1,2,A
+SP2,04/04/2021,15:00,Albacete,Espanol,0,3,A
+SP2,04/04/2021,17:15,Leganes,Sabadell,2,1,H
+SP2,04/04/2021,17:15,Lugo,Malaga,0,1,A
+SP2,04/04/2021,19:30,Las Palmas,Mallorca,1,1,D
+SP2,05/04/2021,18:00,Cartagena,Alcorcon,2,1,H
+SP2,05/04/2021,20:00,Fuenlabrada,Zaragoza,0,1,A
+SP2,09/04/2021,20:00,Tenerife,Sp Gijon,1,0,H
+SP2,10/04/2021,13:00,Ponferradina,Fuenlabrada,0,0,D
+SP2,10/04/2021,15:00,Oviedo,Las Palmas,0,0,D
+SP2,10/04/2021,17:15,Vallecano,Girona,2,1,H
+SP2,11/04/2021,13:00,Malaga,Albacete,2,0,H
+SP2,11/04/2021,15:00,Zaragoza,Almeria,2,1,H
+SP2,11/04/2021,17:15,Mallorca,Lugo,2,0,H
+SP2,11/04/2021,17:15,Mirandes,Logrones,0,1,A
+SP2,11/04/2021,17:15,Sabadell,Cartagena,1,1,D
+SP2,11/04/2021,20:00,Espanol,Leganes,2,1,H
+SP2,12/04/2021,20:00,Alcorcon,Castellon,2,1,H
+SP2,14/04/2021,18:00,Vallecano,Mirandes,0,1,A
+SP2,16/04/2021,18:00,Fuenlabrada,Sabadell,2,2,D
+SP2,16/04/2021,20:00,Girona,Zaragoza,3,0,H
+SP2,17/04/2021,13:00,Lugo,Alcorcon,1,3,A
+SP2,17/04/2021,15:00,Castellon,Mallorca,1,0,H
+SP2,17/04/2021,17:15,Las Palmas,Malaga,1,1,D
+SP2,17/04/2021,17:15,Sp Gijon,Oviedo,0,1,A
+SP2,18/04/2021,13:00,Albacete,Mirandes,1,0,H
+SP2,18/04/2021,13:00,Logrones,Vallecano,0,0,D
+SP2,18/04/2021,17:15,Cartagena,Tenerife,0,0,D
+SP2,19/04/2021,18:00,Leganes,Ponferradina,1,1,D
+SP2,19/04/2021,20:00,Almeria,Espanol,1,1,D
+SP2,21/04/2021,18:00,Mirandes,Tenerife,0,0,D
+SP2,23/04/2021,20:00,Zaragoza,Sp Gijon,0,0,D
+SP2,24/04/2021,15:00,Logrones,Cartagena,0,1,A
+SP2,24/04/2021,15:00,Malaga,Fuenlabrada,0,1,A
+SP2,24/04/2021,17:15,Espanol,Las Palmas,4,0,H
+SP2,24/04/2021,19:30,Ponferradina,Lugo,2,0,H
+SP2,25/04/2021,13:00,Oviedo,Girona,0,1,A
+SP2,25/04/2021,15:00,Mirandes,Almeria,1,1,D
+SP2,25/04/2021,17:15,Alcorcon,Leganes,1,2,A
+SP2,25/04/2021,19:30,Tenerife,Castellon,1,1,D
+SP2,26/04/2021,18:00,Vallecano,Albacete,2,2,D
+SP2,26/04/2021,20:00,Sabadell,Mallorca,1,0,H
+SP2,30/04/2021,20:00,Lugo,Zaragoza,2,2,D
+SP2,01/05/2021,15:00,Girona,Tenerife,1,0,H
+SP2,01/05/2021,17:15,Almeria,Oviedo,2,2,D
+SP2,01/05/2021,17:15,Mallorca,Mirandes,2,1,H
+SP2,02/05/2021,13:00,Fuenlabrada,Cartagena,2,1,H
+SP2,02/05/2021,15:00,Espanol,Malaga,3,0,H
+SP2,02/05/2021,17:15,Castellon,Logrones,0,0,D
+SP2,02/05/2021,17:15,Leganes,Sp Gijon,0,0,D
+SP2,02/05/2021,19:30,Las Palmas,Ponferradina,2,0,H
+SP2,03/05/2021,17:00,Sabadell,Vallecano,2,0,H
+SP2,03/05/2021,20:00,Albacete,Alcorcon,0,1,A
+SP2,07/05/2021,20:00,Tenerife,Almeria,0,1,A
+SP2,08/05/2021,17:15,Ponferradina,Albacete,0,1,A
+SP2,08/05/2021,17:15,Zaragoza,Espanol,0,0,D
+SP2,08/05/2021,19:30,Alcorcon,Las Palmas,0,0,D
+SP2,08/05/2021,20:00,Malaga,Mallorca,1,1,D
+SP2,09/05/2021,13:00,Mirandes,Fuenlabrada,2,1,H
+SP2,09/05/2021,15:00,Oviedo,Sabadell,2,1,H
+SP2,09/05/2021,17:15,Cartagena,Castellon,1,0,H
+SP2,09/05/2021,17:15,Logrones,Girona,1,4,A
+SP2,10/05/2021,18:00,Vallecano,Leganes,1,1,D
+SP2,10/05/2021,20:00,Sp Gijon,Lugo,1,0,H
+SP2,14/05/2021,20:00,Espanol,Cartagena,0,2,A
+SP2,15/05/2021,15:00,Castellon,Ponferradina,0,2,A
+SP2,15/05/2021,17:30,Lugo,Mirandes,2,1,H
+SP2,15/05/2021,20:00,Almeria,Albacete,1,1,D
+SP2,15/05/2021,20:00,Las Palmas,Zaragoza,0,2,A
+SP2,16/05/2021,13:00,Sabadell,Tenerife,0,2,A
+SP2,16/05/2021,15:00,Fuenlabrada,Vallecano,1,2,A
+SP2,16/05/2021,19:45,Mallorca,Alcorcon,2,0,H
+SP2,16/05/2021,20:30,Leganes,Logrones,3,0,H
+SP2,17/05/2021,18:00,Oviedo,Malaga,1,0,H
+SP2,17/05/2021,20:00,Girona,Sp Gijon,1,0,H
+SP2,18/05/2021,18:00,Cartagena,Almeria,3,2,H
+SP2,18/05/2021,20:30,Albacete,Lugo,1,1,D
+SP2,18/05/2021,20:30,Ponferradina,Espanol,1,4,A
+SP2,19/05/2021,18:00,Alcorcon,Sabadell,2,0,H
+SP2,19/05/2021,18:00,Logrones,Fuenlabrada,1,0,H
+SP2,19/05/2021,20:30,Mirandes,Leganes,0,0,D
+SP2,19/05/2021,20:30,Tenerife,Mallorca,0,1,A
+SP2,20/05/2021,18:00,Malaga,Girona,0,1,A
+SP2,20/05/2021,18:00,Sp Gijon,Las Palmas,1,0,H
+SP2,20/05/2021,20:30,Vallecano,Oviedo,4,1,H
+SP2,20/05/2021,20:30,Zaragoza,Castellon,3,0,H
+SP2,23/05/2021,17:15,Espanol,Tenerife,1,1,D
+SP2,23/05/2021,17:15,Mallorca,Zaragoza,2,1,H
+SP2,24/05/2021,17:30,Oviedo,Mirandes,1,1,D
+SP2,24/05/2021,20:00,Almeria,Logrones,2,1,H
+SP2,24/05/2021,20:00,Castellon,Vallecano,0,2,A
+SP2,24/05/2021,20:00,Fuenlabrada,Sp Gijon,0,0,D
+SP2,24/05/2021,20:00,Girona,Alcorcon,1,0,H
+SP2,24/05/2021,20:00,Las Palmas,Albacete,3,2,H
+SP2,24/05/2021,20:00,Leganes,Malaga,1,0,H
+SP2,24/05/2021,20:00,Lugo,Cartagena,2,1,H
+SP2,24/05/2021,20:00,Sabadell,Ponferradina,2,0,H
+SP2,29/05/2021,17:30,Tenerife,Oviedo,2,2,D
+SP2,30/05/2021,17:30,Albacete,Fuenlabrada,1,2,A
+SP2,30/05/2021,20:00,Alcorcon,Espanol,1,0,H
+SP2,30/05/2021,20:00,Cartagena,Girona,1,1,D
+SP2,30/05/2021,20:00,Logrones,Las Palmas,0,1,A
+SP2,30/05/2021,20:00,Malaga,Castellon,3,0,H
+SP2,30/05/2021,20:00,Mirandes,Sabadell,0,2,A
+SP2,30/05/2021,20:00,Ponferradina,Mallorca,2,2,D
+SP2,30/05/2021,20:00,Sp Gijon,Almeria,0,2,A
+SP2,30/05/2021,20:00,Vallecano,Lugo,0,1,A
+SP2,30/05/2021,20:00,Zaragoza,Leganes,0,5,A

@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+I2,23/08/2019,20:00,Pisa,Benevento,0,0,D
+I2,24/08/2019,17:00,Crotone,Cosenza,0,0,D
+I2,24/08/2019,17:00,Salernitana,Pescara,3,1,H
+I2,24/08/2019,20:00,Ascoli,Trapani,3,1,H
+I2,24/08/2019,20:00,Cittadella,Spezia,0,3,A
+I2,24/08/2019,20:00,Venezia,Cremonese,1,2,A
+I2,24/08/2019,20:00,Virtus Entella,Livorno,1,0,H
+I2,25/08/2019,17:00,Empoli,Juve Stabia,2,1,H
+I2,25/08/2019,20:00,Perugia,Chievo,2,1,H
+I2,26/08/2019,20:00,Pordenone,Frosinone,3,0,H
+I2,30/08/2019,20:00,Chievo,Empoli,1,1,D
+I2,31/08/2019,17:00,Benevento,Cittadella,4,1,H
+I2,31/08/2019,17:00,Spezia,Crotone,1,2,A
+I2,31/08/2019,20:00,Cosenza,Salernitana,0,1,A
+I2,31/08/2019,20:00,Cremonese,Virtus Entella,0,1,A
+I2,31/08/2019,20:00,Livorno,Perugia,0,1,A
+I2,31/08/2019,20:00,Trapani,Venezia,0,1,A
+I2,01/09/2019,17:00,Juve Stabia,Pisa,0,2,A
+I2,01/09/2019,17:00,Pescara,Pordenone,4,2,H
+I2,01/09/2019,20:00,Frosinone,Ascoli,2,1,H
+I2,13/09/2019,20:00,Pordenone,Spezia,1,0,H
+I2,14/09/2019,14:00,Ascoli,Livorno,2,0,H
+I2,14/09/2019,14:00,Cittadella,Trapani,2,0,H
+I2,14/09/2019,14:00,Perugia,Juve Stabia,0,0,D
+I2,14/09/2019,14:00,Virtus Entella,Frosinone,1,0,H
+I2,14/09/2019,17:00,Venezia,Chievo,0,2,A
+I2,15/09/2019,14:00,Cosenza,Pescara,1,2,A
+I2,15/09/2019,14:00,Crotone,Empoli,0,0,D
+I2,15/09/2019,20:00,Pisa,Cremonese,4,1,H
+I2,16/09/2019,20:00,Salernitana,Benevento,0,2,A
+I2,20/09/2019,20:00,Frosinone,Venezia,1,1,D
+I2,21/09/2019,14:00,Benevento,Cosenza,1,0,H
+I2,21/09/2019,14:00,Cremonese,Crotone,2,1,H
+I2,21/09/2019,14:00,Empoli,Cittadella,1,0,H
+I2,21/09/2019,14:00,Juve Stabia,Ascoli,1,5,A
+I2,21/09/2019,14:00,Livorno,Pordenone,2,1,H
+I2,21/09/2019,14:00,Pescara,Virtus Entella,1,1,D
+I2,21/09/2019,14:00,Spezia,Perugia,2,2,D
+I2,21/09/2019,17:00,Chievo,Pisa,2,2,D
+I2,22/09/2019,20:00,Trapani,Salernitana,0,1,A
+I2,24/09/2019,20:00,Ascoli,Spezia,3,0,H
+I2,24/09/2019,20:00,Cittadella,Pescara,2,1,H
+I2,24/09/2019,20:00,Cosenza,Livorno,1,1,D
+I2,24/09/2019,20:00,Crotone,Juve Stabia,2,0,H
+I2,24/09/2019,20:00,Perugia,Frosinone,3,1,H
+I2,24/09/2019,20:00,Pisa,Empoli,2,3,A
+I2,24/09/2019,20:00,Pordenone,Benevento,1,1,D
+I2,24/09/2019,20:00,Virtus Entella,Venezia,0,2,A
+I2,25/09/2019,18:00,Trapani,Cremonese,0,0,D
+I2,25/09/2019,20:00,Salernitana,Chievo,1,1,D
+I2,27/09/2019,20:00,Pescara,Crotone,0,3,A
+I2,28/09/2019,14:00,Frosinone,Cosenza,1,1,D
+I2,28/09/2019,14:00,Juve Stabia,Cittadella,0,1,A
+I2,28/09/2019,14:00,Venezia,Pisa,1,1,D
+I2,28/09/2019,17:00,Empoli,Perugia,3,0,H
+I2,29/09/2019,14:00,Benevento,Virtus Entella,1,1,D
+I2,29/09/2019,14:00,Chievo,Pordenone,1,1,D
+I2,29/09/2019,14:00,Spezia,Trapani,2,4,A
+I2,29/09/2019,20:00,Livorno,Salernitana,2,3,A
+I2,30/09/2019,20:00,Cremonese,Ascoli,1,0,H
+I2,04/10/2019,20:00,Perugia,Pisa,1,0,H
+I2,05/10/2019,14:00,Cosenza,Venezia,1,1,D
+I2,05/10/2019,14:00,Crotone,Virtus Entella,3,1,H
+I2,05/10/2019,14:00,Livorno,Chievo,3,4,A
+I2,05/10/2019,14:00,Pordenone,Empoli,2,0,H
+I2,05/10/2019,14:00,Spezia,Benevento,0,1,A
+I2,05/10/2019,17:00,Trapani,Juve Stabia,1,2,A
+I2,06/10/2019,14:00,Cremonese,Cittadella,0,2,A
+I2,06/10/2019,14:00,Salernitana,Frosinone,1,1,D
+I2,06/10/2019,20:00,Ascoli,Pescara,0,2,A
+I2,18/10/2019,20:00,Cittadella,Cosenza,1,3,A
+I2,19/10/2019,14:00,Juve Stabia,Pordenone,4,2,H
+I2,19/10/2019,14:00,Pescara,Spezia,1,2,A
+I2,19/10/2019,14:00,Venezia,Salernitana,1,0,H
+I2,19/10/2019,14:00,Virtus Entella,Trapani,1,1,D
+I2,19/10/2019,17:00,Benevento,Perugia,1,0,H
+I2,20/10/2019,14:00,Chievo,Ascoli,2,0,H
+I2,20/10/2019,14:00,Pisa,Crotone,1,1,D
+I2,20/10/2019,20:00,Empoli,Cremonese,1,1,D
+I2,21/10/2019,20:00,Frosinone,Livorno,1,0,H
+I2,25/10/2019,20:00,Ascoli,Virtus Entella,2,1,H
+I2,26/10/2019,14:00,Cosenza,Chievo,1,1,D
+I2,26/10/2019,14:00,Crotone,Venezia,3,2,H
+I2,26/10/2019,14:00,Pescara,Benevento,4,0,H
+I2,26/10/2019,14:00,Pordenone,Cittadella,0,0,D
+I2,26/10/2019,14:00,Salernitana,Perugia,1,1,D
+I2,26/10/2019,14:00,Spezia,Juve Stabia,2,0,H
+I2,26/10/2019,14:00,Trapani,Empoli,2,2,D
+I2,26/10/2019,17:00,Livorno,Pisa,1,0,H
+I2,27/10/2019,20:00,Cremonese,Frosinone,1,1,D
+I2,29/10/2019,20:00,Chievo,Crotone,2,1,H
+I2,29/10/2019,20:00,Cittadella,Livorno,1,0,H
+I2,29/10/2019,20:00,Empoli,Spezia,1,1,D
+I2,29/10/2019,20:00,Juve Stabia,Pescara,2,1,H
+I2,29/10/2019,20:00,Perugia,Ascoli,1,1,D
+I2,29/10/2019,20:00,Pisa,Salernitana,2,1,H
+I2,29/10/2019,20:00,Venezia,Pordenone,1,2,A
+I2,29/10/2019,20:00,Virtus Entella,Cosenza,1,0,H
+I2,30/10/2019,17:50,Benevento,Cremonese,2,0,H
+I2,30/10/2019,20:00,Frosinone,Trapani,3,0,H
+I2,01/11/2019,20:00,Spezia,Chievo,0,0,D
+I2,02/11/2019,14:00,Ascoli,Venezia,1,1,D
+I2,02/11/2019,14:00,Crotone,Perugia,2,3,A
+I2,02/11/2019,14:00,Livorno,Juve Stabia,2,1,H
+I2,02/11/2019,14:00,Pescara,Pisa,3,0,H
+I2,02/11/2019,17:00,Salernitana,Virtus Entella,2,1,H
+I2,03/11/2019,14:00,Cittadella,Frosinone,0,0,D
+I2,03/11/2019,14:00,Pordenone,Trapani,2,1,H
+I2,03/11/2019,20:00,Benevento,Empoli,2,0,H
+I2,04/11/2019,20:00,Cosenza,Cremonese,2,0,H
+I2,08/11/2019,20:00,Crotone,Ascoli,3,1,H
+I2,09/11/2019,14:00,Juve Stabia,Benevento,1,1,D
+I2,09/11/2019,14:00,Perugia,Cittadella,0,2,A
+I2,09/11/2019,14:00,Pisa,Spezia,3,2,H
+I2,09/11/2019,14:00,Venezia,Livorno,1,0,H
+I2,09/11/2019,14:00,Virtus Entella,Pordenone,1,1,D
+I2,09/11/2019,17:00,Empoli,Pescara,1,2,A
+I2,10/11/2019,14:00,Cremonese,Salernitana,1,0,H
+I2,10/11/2019,14:00,Trapani,Cosenza,2,2,D
+I2,10/11/2019,20:00,Frosinone,Chievo,2,0,H
+I2,22/11/2019,20:00,Pescara,Cremonese,1,1,D
+I2,23/11/2019,14:00,Benevento,Crotone,2,0,H
+I2,23/11/2019,14:00,Juve Stabia,Salernitana,2,0,H
+I2,23/11/2019,14:00,Livorno,Trapani,1,2,A
+I2,23/11/2019,14:00,Pordenone,Perugia,3,0,H
+I2,23/11/2019,17:00,Empoli,Venezia,1,1,D
+I2,24/11/2019,14:00,Ascoli,Cosenza,3,2,H
+I2,24/11/2019,14:00,Cittadella,Pisa,1,1,D
+I2,24/11/2019,20:00,Spezia,Frosinone,2,0,H
+I2,25/11/2019,20:00,Chievo,Virtus Entella,2,1,H
+I2,29/11/2019,20:00,Cosenza,Spezia,1,1,D
+I2,30/11/2019,14:00,Cremonese,Livorno,0,0,D
+I2,30/11/2019,14:00,Crotone,Cittadella,1,1,D
+I2,30/11/2019,14:00,Frosinone,Empoli,4,0,H
+I2,30/11/2019,14:00,Venezia,Benevento,0,2,A
+I2,30/11/2019,17:00,Salernitana,Ascoli,1,1,D
+I2,01/12/2019,14:00,Trapani,Chievo,1,0,H
+I2,01/12/2019,14:00,Virtus Entella,Juve Stabia,2,0,H
+I2,01/12/2019,20:00,Perugia,Pescara,3,1,H
+I2,02/12/2019,20:00,Pisa,Pordenone,2,0,H
+I2,06/12/2019,20:00,Benevento,Trapani,5,0,H
+I2,07/12/2019,14:00,Cittadella,Salernitana,4,3,H
+I2,07/12/2019,14:00,Empoli,Ascoli,2,1,H
+I2,07/12/2019,14:00,Pescara,Venezia,2,2,D
+I2,07/12/2019,14:00,Spezia,Livorno,2,0,H
+I2,07/12/2019,17:00,Chievo,Cremonese,1,0,H
+I2,08/12/2019,14:00,Juve Stabia,Frosinone,0,2,A
+I2,08/12/2019,14:00,Pisa,Virtus Entella,0,2,A
+I2,08/12/2019,20:00,Pordenone,Crotone,1,0,H
+I2,09/12/2019,20:00,Perugia,Cosenza,2,2,D
+I2,13/12/2019,20:00,Chievo,Juve Stabia,2,3,A
+I2,14/12/2019,14:00,Ascoli,Cittadella,1,0,H
+I2,14/12/2019,14:00,Frosinone,Pescara,2,0,H
+I2,14/12/2019,14:00,Venezia,Spezia,0,0,D
+I2,14/12/2019,14:00,Virtus Entella,Empoli,2,0,H
+I2,14/12/2019,17:00,Livorno,Benevento,0,2,A
+I2,15/12/2019,14:00,Cosenza,Pordenone,1,2,A
+I2,15/12/2019,14:00,Cremonese,Perugia,2,1,H
+I2,15/12/2019,20:00,Salernitana,Crotone,3,2,H
+I2,16/12/2019,20:00,Trapani,Pisa,1,3,A
+I2,21/12/2019,14:00,Cittadella,Chievo,1,1,D
+I2,21/12/2019,14:00,Crotone,Livorno,2,1,H
+I2,21/12/2019,14:00,Empoli,Salernitana,1,1,D
+I2,21/12/2019,14:00,Juve Stabia,Venezia,2,0,H
+I2,21/12/2019,14:00,Perugia,Virtus Entella,2,0,H
+I2,21/12/2019,17:00,Benevento,Frosinone,1,0,H
+I2,22/12/2019,14:00,Pescara,Trapani,1,1,D
+I2,22/12/2019,14:00,Pisa,Cosenza,1,3,A
+I2,22/12/2019,20:00,Pordenone,Ascoli,2,1,H
+I2,26/12/2019,11:30,Cosenza,Empoli,1,0,H
+I2,26/12/2019,14:00,Chievo,Benevento,1,2,A
+I2,26/12/2019,14:00,Cremonese,Juve Stabia,1,1,D
+I2,26/12/2019,14:00,Frosinone,Crotone,1,2,A
+I2,26/12/2019,14:00,Livorno,Pescara,0,2,A
+I2,26/12/2019,14:00,Salernitana,Pordenone,4,0,H
+I2,26/12/2019,14:00,Trapani,Perugia,2,2,D
+I2,26/12/2019,14:00,Venezia,Cittadella,1,2,A
+I2,26/12/2019,17:00,Ascoli,Pisa,1,0,H
+I2,26/12/2019,20:00,Virtus Entella,Spezia,0,0,D
+I2,29/12/2019,11:30,Pescara,Chievo,0,0,D
+I2,29/12/2019,14:00,Cittadella,Virtus Entella,1,3,A
+I2,29/12/2019,14:00,Crotone,Trapani,3,0,H
+I2,29/12/2019,14:00,Juve Stabia,Cosenza,1,0,H
+I2,29/12/2019,14:00,Perugia,Venezia,0,1,A
+I2,29/12/2019,14:00,Pisa,Frosinone,0,0,D
+I2,29/12/2019,14:00,Pordenone,Cremonese,1,0,H
+I2,29/12/2019,14:00,Spezia,Salernitana,2,1,H
+I2,29/12/2019,17:00,Benevento,Ascoli,4,0,H
+I2,29/12/2019,20:00,Empoli,Livorno,1,1,D
+I2,17/01/2020,20:00,Frosinone,Pordenone,2,2,D
+I2,18/01/2020,14:00,Cremonese,Venezia,0,0,D
+I2,18/01/2020,14:00,Juve Stabia,Empoli,1,0,H
+I2,18/01/2020,14:00,Livorno,Virtus Entella,4,4,D
+I2,18/01/2020,14:00,Trapani,Ascoli,3,1,H
+I2,18/01/2020,17:00,Chievo,Perugia,2,0,H
+I2,19/01/2020,14:00,Pescara,Salernitana,1,2,A
+I2,19/01/2020,14:00,Spezia,Cittadella,1,1,D
+I2,19/01/2020,20:00,Benevento,Pisa,1,1,D
+I2,20/01/2020,20:00,Cosenza,Crotone,0,1,A
+I2,24/01/2020,20:00,Empoli,Chievo,1,1,D
+I2,25/01/2020,14:00,Cittadella,Benevento,1,2,A
+I2,25/01/2020,14:00,Pisa,Juve Stabia,1,1,D
+I2,25/01/2020,14:00,Pordenone,Pescara,0,2,A
+I2,25/01/2020,14:00,Virtus Entella,Cremonese,1,1,D
+I2,25/01/2020,17:00,Salernitana,Cosenza,2,1,H
+I2,26/01/2020,14:00,Crotone,Spezia,1,2,A
+I2,26/01/2020,14:00,Venezia,Trapani,1,1,D
+I2,26/01/2020,20:00,Ascoli,Frosinone,0,1,A
+I2,27/01/2020,20:00,Perugia,Livorno,1,0,H
+I2,31/01/2020,20:00,Cremonese,Pisa,3,4,A
+I2,01/02/2020,14:00,Frosinone,Virtus Entella,1,0,H
+I2,01/02/2020,14:00,Livorno,Ascoli,0,3,A
+I2,01/02/2020,14:00,Spezia,Pordenone,1,0,H
+I2,01/02/2020,14:00,Trapani,Cittadella,0,3,A
+I2,01/02/2020,17:00,Empoli,Crotone,3,1,H
+I2,02/02/2020,14:00,Chievo,Venezia,0,1,A
+I2,02/02/2020,14:00,Juve Stabia,Perugia,1,2,A
+I2,02/02/2020,20:00,Benevento,Salernitana,1,1,D
+I2,03/02/2020,20:00,Pescara,Cosenza,2,1,H
+I2,07/02/2020,20:00,Ascoli,Juve Stabia,2,2,D
+I2,08/02/2020,14:00,Cittadella,Empoli,1,2,A
+I2,08/02/2020,14:00,Crotone,Cremonese,1,0,H
+I2,08/02/2020,14:00,Pordenone,Livorno,2,2,D
+I2,08/02/2020,14:00,Venezia,Frosinone,0,1,A
+I2,08/02/2020,17:00,Perugia,Spezia,0,3,A
+I2,09/02/2020,14:00,Pisa,Chievo,1,1,D
+I2,09/02/2020,14:00,Virtus Entella,Pescara,2,0,H
+I2,09/02/2020,20:00,Cosenza,Benevento,0,1,A
+I2,10/02/2020,20:00,Salernitana,Trapani,1,0,H
+I2,11/02/2020,20:00,Spezia,Cremonese,3,2,H
+I2,14/02/2020,20:00,Pescara,Cittadella,1,2,A
+I2,15/02/2020,14:00,Benevento,Pordenone,2,1,H
+I2,15/02/2020,14:00,Juve Stabia,Crotone,3,2,H
+I2,15/02/2020,14:00,Livorno,Cosenza,0,3,A
+I2,15/02/2020,14:00,Venezia,Virtus Entella,2,2,D
+I2,15/02/2020,17:00,Spezia,Ascoli,3,1,H
+I2,16/02/2020,14:00,Cremonese,Trapani,5,0,H
+I2,16/02/2020,14:00,Frosinone,Perugia,1,0,H
+I2,16/02/2020,20:00,Empoli,Pisa,2,1,H
+I2,17/02/2020,20:00,Chievo,Salernitana,2,0,H
+I2,21/02/2020,20:00,Cosenza,Frosinone,0,2,A
+I2,22/02/2020,14:00,Cittadella,Juve Stabia,3,0,H
+I2,22/02/2020,14:00,Trapani,Spezia,1,1,D
+I2,22/02/2020,14:00,Virtus Entella,Benevento,0,4,A
+I2,22/02/2020,17:00,Pisa,Venezia,1,2,A
+I2,23/02/2020,14:00,Pordenone,Chievo,0,1,A
+I2,23/02/2020,14:00,Salernitana,Livorno,1,0,H
+I2,23/02/2020,20:00,Crotone,Pescara,4,1,H
+I2,24/02/2020,20:00,Perugia,Empoli,0,1,A
+I2,28/02/2020,20:00,Virtus Entella,Crotone,1,2,A
+I2,29/02/2020,14:00,Benevento,Spezia,3,1,H
+I2,29/02/2020,14:00,Cittadella,Cremonese,0,0,D
+I2,29/02/2020,14:00,Empoli,Pordenone,0,1,A
+I2,29/02/2020,14:00,Juve Stabia,Trapani,2,2,D
+I2,29/02/2020,14:00,Pisa,Perugia,1,0,H
+I2,29/02/2020,14:00,Venezia,Cosenza,1,1,D
+I2,29/02/2020,17:00,Chievo,Livorno,0,1,A
+I2,29/02/2020,17:00,Frosinone,Salernitana,1,0,H
+I2,01/03/2020,20:00,Pescara,Ascoli,2,1,H
+I2,03/03/2020,20:00,Cosenza,Cittadella,1,2,A
+I2,03/03/2020,20:00,Cremonese,Empoli,2,3,A
+I2,03/03/2020,20:00,Crotone,Pisa,1,0,H
+I2,03/03/2020,20:00,Livorno,Frosinone,2,2,D
+I2,03/03/2020,20:00,Perugia,Benevento,1,2,A
+I2,03/03/2020,20:00,Pordenone,Juve Stabia,2,1,H
+I2,03/03/2020,20:00,Salernitana,Venezia,2,0,H
+I2,03/03/2020,20:00,Trapani,Virtus Entella,4,1,H
+I2,04/03/2020,17:50,Ascoli,Chievo,1,1,D
+I2,04/03/2020,20:00,Spezia,Pescara,2,0,H
+I2,07/03/2020,13:30,Cittadella,Pordenone,0,2,A
+I2,07/03/2020,14:00,Empoli,Trapani,1,1,D
+I2,07/03/2020,14:00,Frosinone,Cremonese,0,2,A
+I2,07/03/2020,14:00,Perugia,Salernitana,1,0,H
+I2,07/03/2020,14:00,Venezia,Crotone,1,3,A
+I2,07/03/2020,17:00,Pisa,Livorno,1,0,H
+I2,08/03/2020,14:00,Juve Stabia,Spezia,3,1,H
+I2,08/03/2020,14:00,Virtus Entella,Ascoli,3,0,H
+I2,08/03/2020,20:00,Benevento,Pescara,4,0,H
+I2,09/03/2020,20:00,Chievo,Cosenza,2,0,H
+I2,17/06/2020,17:30,Ascoli,Cremonese,1,3,A
+I2,19/06/2020,16:30,Spezia,Empoli,1,0,H
+I2,20/06/2020,17:00,Cosenza,Virtus Entella,2,1,H
+I2,20/06/2020,17:00,Crotone,Chievo,1,1,D
+I2,20/06/2020,17:00,Livorno,Cittadella,0,2,A
+I2,20/06/2020,17:00,Pescara,Juve Stabia,3,1,H
+I2,20/06/2020,17:00,Salernitana,Pisa,1,1,D
+I2,20/06/2020,17:00,Trapani,Frosinone,0,0,D
+I2,20/06/2020,19:30,Pordenone,Venezia,0,0,D
+I2,21/06/2020,17:00,Cremonese,Benevento,0,1,A
+I2,21/06/2020,19:30,Ascoli,Perugia,0,1,A
+I2,26/06/2020,17:45,Trapani,Pordenone,3,0,H
+I2,26/06/2020,20:00,Chievo,Spezia,1,3,A
+I2,26/06/2020,20:00,Cremonese,Cosenza,0,2,A
+I2,26/06/2020,20:00,Empoli,Benevento,0,0,D
+I2,26/06/2020,20:00,Frosinone,Cittadella,0,2,A
+I2,26/06/2020,20:00,Juve Stabia,Livorno,2,3,A
+I2,26/06/2020,20:00,Perugia,Crotone,0,0,D
+I2,26/06/2020,20:00,Pisa,Pescara,2,1,H
+I2,26/06/2020,20:00,Venezia,Ascoli,2,1,H
+I2,26/06/2020,20:00,Virtus Entella,Salernitana,1,0,H
+I2,29/06/2020,17:45,Salernitana,Cremonese,3,3,D
+I2,29/06/2020,20:00,Ascoli,Crotone,1,1,D
+I2,29/06/2020,20:00,Benevento,Juve Stabia,1,0,H
+I2,29/06/2020,20:00,Chievo,Frosinone,2,0,H
+I2,29/06/2020,20:00,Cittadella,Perugia,2,0,H
+I2,29/06/2020,20:00,Cosenza,Trapani,2,2,D
+I2,29/06/2020,20:00,Livorno,Venezia,0,2,A
+I2,29/06/2020,20:00,Pescara,Empoli,1,1,D
+I2,29/06/2020,20:00,Pordenone,Virtus Entella,2,0,H
+I2,29/06/2020,20:00,Spezia,Pisa,1,2,A
+I2,03/07/2020,17:45,Pisa,Cittadella,2,0,H
+I2,03/07/2020,20:00,Cosenza,Ascoli,0,1,A
+I2,03/07/2020,20:00,Cremonese,Pescara,1,0,H
+I2,03/07/2020,20:00,Crotone,Benevento,3,0,H
+I2,03/07/2020,20:00,Frosinone,Spezia,2,1,H
+I2,03/07/2020,20:00,Perugia,Pordenone,1,2,A
+I2,03/07/2020,20:00,Salernitana,Juve Stabia,2,1,H
+I2,03/07/2020,20:00,Trapani,Livorno,2,1,H
+I2,03/07/2020,20:00,Venezia,Empoli,0,2,A
+I2,03/07/2020,20:00,Virtus Entella,Chievo,1,1,D
+I2,10/07/2020,17:45,Juve Stabia,Virtus Entella,1,1,D
+I2,10/07/2020,20:00,Ascoli,Salernitana,3,2,H
+I2,10/07/2020,20:00,Benevento,Venezia,1,1,D
+I2,10/07/2020,20:00,Chievo,Trapani,1,1,D
+I2,10/07/2020,20:00,Cittadella,Crotone,1,3,A
+I2,10/07/2020,20:00,Empoli,Frosinone,2,0,H
+I2,10/07/2020,20:00,Livorno,Cremonese,1,2,A
+I2,10/07/2020,20:00,Pescara,Perugia,2,2,D
+I2,10/07/2020,20:00,Pordenone,Pisa,1,0,H
+I2,10/07/2020,20:00,Spezia,Cosenza,5,1,H
+I2,13/07/2020,17:45,Cosenza,Perugia,2,1,H
+I2,13/07/2020,20:00,Ascoli,Empoli,1,0,H
+I2,13/07/2020,20:00,Cremonese,Chievo,1,0,H
+I2,13/07/2020,20:00,Crotone,Pordenone,1,0,H
+I2,13/07/2020,20:00,Frosinone,Juve Stabia,2,2,D
+I2,13/07/2020,20:00,Livorno,Spezia,0,1,A
+I2,13/07/2020,20:00,Salernitana,Cittadella,4,1,H
+I2,13/07/2020,20:00,Trapani,Benevento,2,0,H
+I2,13/07/2020,20:00,Venezia,Pescara,1,1,D
+I2,13/07/2020,20:00,Virtus Entella,Pisa,1,1,D
+I2,17/07/2020,17:45,Pescara,Frosinone,1,1,D
+I2,17/07/2020,20:00,Benevento,Livorno,3,1,H
+I2,17/07/2020,20:00,Cittadella,Ascoli,1,2,A
+I2,17/07/2020,20:00,Crotone,Salernitana,1,1,D
+I2,17/07/2020,20:00,Empoli,Virtus Entella,2,4,A
+I2,17/07/2020,20:00,Juve Stabia,Chievo,3,2,H
+I2,17/07/2020,20:00,Perugia,Cremonese,0,0,D
+I2,17/07/2020,20:00,Pisa,Trapani,3,2,H
+I2,17/07/2020,20:00,Pordenone,Cosenza,1,2,A
+I2,17/07/2020,20:00,Spezia,Venezia,0,1,A
+I2,24/07/2020,17:45,Livorno,Crotone,1,5,A
+I2,24/07/2020,20:00,Ascoli,Pordenone,2,2,D
+I2,24/07/2020,20:00,Chievo,Cittadella,4,1,H
+I2,24/07/2020,20:00,Cosenza,Pisa,2,1,H
+I2,24/07/2020,20:00,Cremonese,Spezia,0,0,D
+I2,24/07/2020,20:00,Frosinone,Benevento,2,3,A
+I2,24/07/2020,20:00,Salernitana,Empoli,2,4,A
+I2,24/07/2020,20:00,Trapani,Pescara,1,0,H
+I2,24/07/2020,20:00,Venezia,Juve Stabia,1,0,H
+I2,24/07/2020,20:00,Virtus Entella,Perugia,0,2,A
+I2,27/07/2020,20:00,Benevento,Chievo,0,1,A
+I2,27/07/2020,20:00,Cittadella,Venezia,1,0,H
+I2,27/07/2020,20:00,Crotone,Frosinone,1,0,H
+I2,27/07/2020,20:00,Empoli,Cosenza,1,5,A
+I2,27/07/2020,20:00,Juve Stabia,Cremonese,1,2,A
+I2,27/07/2020,20:00,Perugia,Trapani,1,2,A
+I2,27/07/2020,20:00,Pescara,Livorno,1,0,H
+I2,27/07/2020,20:00,Pisa,Ascoli,1,0,H
+I2,27/07/2020,20:00,Pordenone,Salernitana,1,1,D
+I2,27/07/2020,20:00,Spezia,Virtus Entella,0,0,D
+I2,31/07/2020,20:00,Ascoli,Benevento,2,4,A
+I2,31/07/2020,20:00,Chievo,Pescara,1,0,H
+I2,31/07/2020,20:00,Cosenza,Juve Stabia,3,1,H
+I2,31/07/2020,20:00,Cremonese,Pordenone,2,2,D
+I2,31/07/2020,20:00,Frosinone,Pisa,1,1,D
+I2,31/07/2020,20:00,Livorno,Empoli,0,2,A
+I2,31/07/2020,20:00,Salernitana,Spezia,1,2,A
+I2,31/07/2020,20:00,Trapani,Crotone,2,0,H
+I2,31/07/2020,20:00,Venezia,Perugia,3,1,H
+I2,31/07/2020,20:00,Virtus Entella,Cittadella,2,3,A

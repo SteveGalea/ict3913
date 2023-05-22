@@ -1,0 +1,463 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+SP2,17/08/2019,17:00,Lugo,Extremadura UD,0,0,D
+SP2,17/08/2019,17:00,Santander,Malaga,0,1,A
+SP2,17/08/2019,18:00,Almeria,Albacete,3,0,H
+SP2,17/08/2019,19:00,Elche,Fuenlabrada,0,2,A
+SP2,17/08/2019,20:00,Vallecano,Mirandes,2,2,D
+SP2,17/08/2019,20:00,Zaragoza,Tenerife,2,0,H
+SP2,18/08/2019,17:00,La Coruna,Oviedo,3,2,H
+SP2,18/08/2019,17:00,Numancia,Alcorcon,0,1,A
+SP2,18/08/2019,17:30,Girona,Sp Gijon,1,1,D
+SP2,18/08/2019,19:00,Cadiz,Ponferradina,3,1,H
+SP2,18/08/2019,19:00,Las Palmas,Huesca,0,1,A
+SP2,23/08/2019,21:00,Albacete,Girona,1,0,H
+SP2,24/08/2019,17:00,Oviedo,Lugo,1,1,D
+SP2,24/08/2019,17:00,Santander,Almeria,1,1,D
+SP2,24/08/2019,18:00,Mirandes,Cadiz,1,2,A
+SP2,24/08/2019,19:00,Alcorcon,Elche,1,2,A
+SP2,24/08/2019,20:00,Malaga,Las Palmas,1,1,D
+SP2,25/08/2019,17:00,Ponferradina,Zaragoza,1,1,D
+SP2,25/08/2019,17:00,Sp Gijon,Vallecano,1,1,D
+SP2,25/08/2019,18:00,Huesca,La Coruna,3,1,H
+SP2,25/08/2019,19:00,Tenerife,Numancia,3,2,H
+SP2,25/08/2019,20:00,Extremadura UD,Fuenlabrada,1,2,A
+SP2,30/08/2019,20:00,Zaragoza,Elche,1,0,H
+SP2,31/08/2019,17:00,Fuenlabrada,Oviedo,2,1,H
+SP2,31/08/2019,17:00,Numancia,Mirandes,2,0,H
+SP2,31/08/2019,19:00,Almeria,Huesca,1,0,H
+SP2,31/08/2019,20:00,Las Palmas,Santander,2,2,D
+SP2,01/09/2019,17:00,Lugo,Alcorcon,2,4,A
+SP2,01/09/2019,17:00,Sp Gijon,Albacete,2,0,H
+SP2,01/09/2019,17:00,Vallecano,La Coruna,3,1,H
+SP2,01/09/2019,18:00,Girona,Malaga,1,0,H
+SP2,01/09/2019,19:00,Ponferradina,Tenerife,4,0,H
+SP2,01/09/2019,20:00,Cadiz,Extremadura UD,2,1,H
+SP2,06/09/2019,20:00,Santander,Cadiz,1,2,A
+SP2,07/09/2019,15:00,La Coruna,Albacete,0,1,A
+SP2,07/09/2019,17:00,Malaga,Almeria,0,1,A
+SP2,07/09/2019,19:00,Extremadura UD,Numancia,0,0,D
+SP2,07/09/2019,19:00,Fuenlabrada,Ponferradina,1,1,D
+SP2,07/09/2019,20:00,Tenerife,Las Palmas,0,0,D
+SP2,08/09/2019,11:00,Huesca,Sp Gijon,1,0,H
+SP2,08/09/2019,15:00,Girona,Vallecano,3,1,H
+SP2,08/09/2019,17:00,Elche,Lugo,1,1,D
+SP2,08/09/2019,17:00,Mirandes,Oviedo,2,1,H
+SP2,08/09/2019,17:30,Alcorcon,Zaragoza,0,3,A
+SP2,13/09/2019,20:00,Vallecano,Santander,2,0,H
+SP2,14/09/2019,15:00,Mirandes,Malaga,1,1,D
+SP2,14/09/2019,15:00,Numancia,Huesca,1,0,H
+SP2,14/09/2019,17:30,Las Palmas,Almeria,0,3,A
+SP2,14/09/2019,19:30,Cadiz,Girona,2,0,H
+SP2,14/09/2019,19:30,Ponferradina,Alcorcon,1,1,D
+SP2,15/09/2019,11:00,Albacete,Tenerife,0,4,A
+SP2,15/09/2019,15:00,Oviedo,Elche,0,2,A
+SP2,15/09/2019,17:00,Zaragoza,Extremadura UD,3,1,H
+SP2,15/09/2019,19:00,Lugo,Fuenlabrada,2,0,H
+SP2,15/09/2019,20:00,Sp Gijon,La Coruna,1,1,D
+SP2,17/09/2019,18:00,Almeria,Girona,3,1,H
+SP2,17/09/2019,18:00,Malaga,Vallecano,1,1,D
+SP2,17/09/2019,18:00,Santander,Mirandes,4,0,H
+SP2,17/09/2019,20:00,Alcorcon,Cadiz,3,0,H
+SP2,18/09/2019,18:00,Huesca,Albacete,0,1,A
+SP2,18/09/2019,18:00,Lugo,Ponferradina,2,2,D
+SP2,18/09/2019,20:00,La Coruna,Numancia,3,3,D
+SP2,19/09/2019,18:00,Elche,Tenerife,1,1,D
+SP2,19/09/2019,18:00,Oviedo,Extremadura UD,1,1,D
+SP2,19/09/2019,21:00,Las Palmas,Sp Gijon,1,0,H
+SP2,20/09/2019,20:00,Mirandes,Alcorcon,2,2,D
+SP2,21/09/2019,15:00,Cadiz,La Coruna,0,0,D
+SP2,21/09/2019,17:00,Zaragoza,Lugo,0,0,D
+SP2,21/09/2019,19:00,Vallecano,Almeria,1,1,D
+SP2,21/09/2019,19:30,Albacete,Malaga,1,0,H
+SP2,22/09/2019,11:00,Ponferradina,Oviedo,2,1,H
+SP2,22/09/2019,15:00,Girona,Las Palmas,1,0,H
+SP2,22/09/2019,17:00,Numancia,Elche,1,1,D
+SP2,22/09/2019,17:00,Sp Gijon,Santander,1,1,D
+SP2,22/09/2019,19:00,Extremadura UD,Huesca,0,1,A
+SP2,22/09/2019,19:00,Tenerife,Fuenlabrada,0,1,A
+SP2,27/09/2019,20:00,Las Palmas,Albacete,3,2,H
+SP2,28/09/2019,15:00,Fuenlabrada,Vallecano,2,2,D
+SP2,28/09/2019,17:00,Alcorcon,Extremadura UD,0,2,A
+SP2,28/09/2019,17:00,Huesca,Girona,1,0,H
+SP2,28/09/2019,19:00,Elche,Ponferradina,1,0,H
+SP2,28/09/2019,19:00,Santander,Numancia,0,0,D
+SP2,29/09/2019,11:00,Malaga,Sp Gijon,0,0,D
+SP2,29/09/2019,15:00,Almeria,Cadiz,1,2,A
+SP2,29/09/2019,17:30,Oviedo,Zaragoza,2,2,D
+SP2,29/09/2019,20:00,La Coruna,Mirandes,1,1,D
+SP2,29/09/2019,20:00,Lugo,Tenerife,1,4,A
+SP2,01/10/2019,18:00,Albacete,Santander,0,0,D
+SP2,01/10/2019,18:00,Extremadura UD,Elche,2,0,H
+SP2,01/10/2019,18:00,Numancia,Fuenlabrada,1,0,H
+SP2,01/10/2019,20:00,Vallecano,Alcorcon,1,1,D
+SP2,02/10/2019,18:00,Cadiz,Huesca,1,0,H
+SP2,02/10/2019,18:00,Mirandes,Lugo,1,1,D
+SP2,02/10/2019,20:00,Ponferradina,Las Palmas,0,2,A
+SP2,02/10/2019,20:00,Tenerife,Oviedo,0,1,A
+SP2,03/10/2019,18:00,Sp Gijon,Almeria,4,2,H
+SP2,03/10/2019,18:00,Zaragoza,Malaga,2,2,D
+SP2,03/10/2019,20:00,Girona,La Coruna,3,1,H
+SP2,04/10/2019,20:00,Alcorcon,Albacete,0,1,A
+SP2,05/10/2019,15:00,Lugo,Las Palmas,0,2,A
+SP2,05/10/2019,17:00,Elche,Vallecano,1,1,D
+SP2,05/10/2019,19:00,Ponferradina,Mirandes,2,0,H
+SP2,05/10/2019,19:30,Tenerife,Extremadura UD,1,2,A
+SP2,06/10/2019,11:00,Fuenlabrada,Sp Gijon,2,0,H
+SP2,06/10/2019,15:00,Oviedo,Numancia,1,1,D
+SP2,06/10/2019,15:00,Zaragoza,Cadiz,0,2,A
+SP2,06/10/2019,17:30,La Coruna,Almeria,0,0,D
+SP2,06/10/2019,19:00,Huesca,Malaga,2,0,H
+SP2,06/10/2019,19:30,Santander,Girona,0,3,A
+SP2,11/10/2019,20:00,Vallecano,Tenerife,2,1,H
+SP2,12/10/2019,11:00,Girona,Elche,0,2,A
+SP2,12/10/2019,15:00,Almeria,Lugo,0,0,D
+SP2,12/10/2019,15:00,Sp Gijon,Alcorcon,1,3,A
+SP2,12/10/2019,17:00,Extremadura UD,Ponferradina,1,1,D
+SP2,12/10/2019,17:00,Malaga,Cadiz,1,2,A
+SP2,13/10/2019,11:00,Mirandes,Fuenlabrada,2,1,H
+SP2,13/10/2019,15:00,Numancia,Zaragoza,0,1,A
+SP2,13/10/2019,17:00,Albacete,Oviedo,1,2,A
+SP2,13/10/2019,17:00,Huesca,Santander,1,1,D
+SP2,13/10/2019,20:00,Las Palmas,La Coruna,3,0,H
+SP2,16/10/2019,20:00,Fuenlabrada,Zaragoza,2,1,H
+SP2,18/10/2019,20:00,Cadiz,Las Palmas,2,0,H
+SP2,19/10/2019,15:00,Alcorcon,Almeria,2,2,D
+SP2,19/10/2019,15:00,Ponferradina,Numancia,1,1,D
+SP2,19/10/2019,17:00,Elche,Sp Gijon,0,1,A
+SP2,19/10/2019,17:00,Lugo,Huesca,3,2,H
+SP2,19/10/2019,19:00,Extremadura UD,Vallecano,0,3,A
+SP2,20/10/2019,11:00,Fuenlabrada,Albacete,0,1,A
+SP2,20/10/2019,15:00,La Coruna,Malaga,0,2,A
+SP2,20/10/2019,17:00,Oviedo,Girona,4,2,H
+SP2,20/10/2019,17:00,Tenerife,Santander,3,3,D
+SP2,20/10/2019,20:00,Zaragoza,Mirandes,1,2,A
+SP2,25/10/2019,20:00,Albacete,Cadiz,1,0,H
+SP2,26/10/2019,15:00,Vallecano,Ponferradina,1,3,A
+SP2,26/10/2019,17:00,Mirandes,Tenerife,0,0,D
+SP2,26/10/2019,17:00,Santander,La Coruna,1,1,D
+SP2,26/10/2019,19:00,Malaga,Oviedo,2,1,H
+SP2,26/10/2019,19:00,Numancia,Lugo,3,1,H
+SP2,27/10/2019,11:00,Girona,Alcorcon,0,0,D
+SP2,27/10/2019,15:00,Sp Gijon,Zaragoza,4,0,H
+SP2,27/10/2019,17:00,Huesca,Elche,2,0,H
+SP2,27/10/2019,17:00,Las Palmas,Fuenlabrada,1,3,A
+SP2,27/10/2019,20:00,Almeria,Extremadura UD,3,2,H
+SP2,01/11/2019,11:00,Numancia,Albacete,1,0,H
+SP2,01/11/2019,15:00,Cadiz,Sp Gijon,3,1,H
+SP2,01/11/2019,17:30,Ponferradina,Malaga,1,0,H
+SP2,01/11/2019,20:00,Oviedo,Almeria,0,0,D
+SP2,02/11/2019,15:00,Fuenlabrada,La Coruna,1,1,D
+SP2,02/11/2019,17:00,Alcorcon,Santander,1,0,H
+SP2,02/11/2019,19:00,Tenerife,Huesca,0,0,D
+SP2,03/11/2019,11:00,Extremadura UD,Girona,1,3,A
+SP2,03/11/2019,15:00,Lugo,Vallecano,1,0,H
+SP2,03/11/2019,17:30,Zaragoza,Las Palmas,3,0,H
+SP2,03/11/2019,19:00,Elche,Mirandes,4,2,H
+SP2,08/11/2019,20:00,Girona,Tenerife,1,0,H
+SP2,09/11/2019,15:00,Huesca,Oviedo,3,1,H
+SP2,09/11/2019,15:00,Mirandes,Extremadura UD,2,0,H
+SP2,09/11/2019,17:00,Albacete,Lugo,0,1,A
+SP2,09/11/2019,17:00,Sp Gijon,Numancia,0,1,A
+SP2,09/11/2019,19:00,Las Palmas,Alcorcon,1,1,D
+SP2,10/11/2019,11:00,La Coruna,Elche,1,3,A
+SP2,10/11/2019,15:00,Almeria,Zaragoza,1,1,D
+SP2,10/11/2019,17:00,Malaga,Fuenlabrada,0,0,D
+SP2,10/11/2019,17:00,Santander,Ponferradina,2,2,D
+SP2,10/11/2019,20:00,Vallecano,Cadiz,1,1,D
+SP2,16/11/2019,12:00,Fuenlabrada,Huesca,3,2,H
+SP2,16/11/2019,15:00,Extremadura UD,La Coruna,2,0,H
+SP2,16/11/2019,17:30,Elche,Almeria,1,1,D
+SP2,16/11/2019,17:30,Numancia,Vallecano,2,2,D
+SP2,16/11/2019,20:00,Zaragoza,Albacete,0,1,A
+SP2,17/11/2019,11:00,Ponferradina,Girona,1,1,D
+SP2,17/11/2019,13:00,Alcorcon,Malaga,1,0,H
+SP2,17/11/2019,15:00,Oviedo,Sp Gijon,0,0,D
+SP2,17/11/2019,17:30,Lugo,Santander,1,1,D
+SP2,17/11/2019,17:30,Mirandes,Las Palmas,2,1,H
+SP2,17/11/2019,20:00,Tenerife,Cadiz,1,1,D
+SP2,22/11/2019,20:00,Sp Gijon,Tenerife,0,2,A
+SP2,23/11/2019,15:00,Vallecano,Zaragoza,0,1,A
+SP2,23/11/2019,17:00,La Coruna,Alcorcon,0,0,D
+SP2,23/11/2019,17:00,Santander,Extremadura UD,3,0,H
+SP2,23/11/2019,19:00,Huesca,Ponferradina,2,0,H
+SP2,24/11/2019,11:00,Almeria,Numancia,2,0,H
+SP2,24/11/2019,15:00,Albacete,Mirandes,1,2,A
+SP2,24/11/2019,15:00,Malaga,Elche,3,3,D
+SP2,24/11/2019,17:00,Girona,Fuenlabrada,2,0,H
+SP2,24/11/2019,17:00,Las Palmas,Oviedo,3,1,H
+SP2,24/11/2019,20:00,Cadiz,Lugo,2,1,H
+SP2,29/11/2019,20:00,Numancia,Malaga,0,0,D
+SP2,30/11/2019,15:00,Alcorcon,Huesca,0,2,A
+SP2,30/11/2019,15:00,Mirandes,Sp Gijon,0,0,D
+SP2,30/11/2019,17:00,Ponferradina,Albacete,1,1,D
+SP2,30/11/2019,17:00,Tenerife,Almeria,1,3,A
+SP2,30/11/2019,20:00,Zaragoza,Girona,3,3,D
+SP2,01/12/2019,11:00,Fuenlabrada,Cadiz,1,0,H
+SP2,01/12/2019,15:00,Oviedo,Vallecano,2,1,H
+SP2,01/12/2019,17:00,Elche,Santander,2,0,H
+SP2,01/12/2019,17:00,Lugo,La Coruna,0,0,D
+SP2,01/12/2019,19:00,Extremadura UD,Las Palmas,0,1,A
+SP2,06/12/2019,11:00,Albacete,Extremadura UD,1,1,D
+SP2,06/12/2019,15:00,Santander,Fuenlabrada,2,2,D
+SP2,06/12/2019,17:30,Alcorcon,Oviedo,1,3,A
+SP2,06/12/2019,20:00,Malaga,Tenerife,2,0,H
+SP2,07/12/2019,15:00,Huesca,Vallecano,0,2,A
+SP2,07/12/2019,17:00,Sp Gijon,Ponferradina,1,0,H
+SP2,07/12/2019,19:00,Almeria,Mirandes,3,1,H
+SP2,08/12/2019,11:00,Girona,Lugo,3,1,H
+SP2,08/12/2019,15:00,La Coruna,Zaragoza,1,3,A
+SP2,08/12/2019,17:00,Las Palmas,Numancia,3,1,H
+SP2,08/12/2019,20:00,Cadiz,Elche,0,0,D
+SP2,13/12/2019,20:00,Numancia,Girona,2,0,H
+SP2,14/12/2019,15:00,Mirandes,Huesca,2,0,H
+SP2,14/12/2019,17:00,Ponferradina,La Coruna,2,0,H
+SP2,14/12/2019,17:00,Tenerife,Alcorcon,0,0,D
+SP2,14/12/2019,20:00,Zaragoza,Santander,2,0,H
+SP2,15/12/2019,11:00,Extremadura UD,Malaga,0,0,D
+SP2,15/12/2019,15:00,Oviedo,Cadiz,0,2,A
+SP2,15/12/2019,17:00,Elche,Las Palmas,2,3,A
+SP2,15/12/2019,17:00,Lugo,Sp Gijon,1,2,A
+SP2,15/12/2019,19:00,Fuenlabrada,Almeria,2,2,D
+SP2,20/12/2019,20:00,La Coruna,Tenerife,2,1,H
+SP2,21/12/2019,15:00,Albacete,Elche,0,1,A
+SP2,21/12/2019,15:00,Malaga,Lugo,1,1,D
+SP2,21/12/2019,17:00,Las Palmas,Vallecano,1,1,D
+SP2,21/12/2019,17:00,Sp Gijon,Extremadura UD,0,1,A
+SP2,21/12/2019,19:00,Santander,Oviedo,1,1,D
+SP2,21/12/2019,20:00,Cadiz,Numancia,2,4,A
+SP2,22/12/2019,11:00,Almeria,Ponferradina,2,3,A
+SP2,22/12/2019,15:00,Huesca,Zaragoza,2,1,H
+SP2,22/12/2019,17:00,Alcorcon,Fuenlabrada,1,1,D
+SP2,22/12/2019,19:00,Girona,Mirandes,0,3,A
+SP2,03/01/2020,18:00,Extremadura UD,Alcorcon,0,0,D
+SP2,04/01/2020,12:00,Fuenlabrada,Las Palmas,0,0,D
+SP2,04/01/2020,15:00,Ponferradina,Cadiz,0,0,D
+SP2,04/01/2020,17:00,Lugo,Almeria,0,4,A
+SP2,04/01/2020,17:00,Tenerife,Albacete,4,2,H
+SP2,04/01/2020,19:00,Elche,Huesca,1,1,D
+SP2,04/01/2020,19:00,Mirandes,Santander,0,0,D
+SP2,05/01/2020,11:00,Numancia,La Coruna,0,1,A
+SP2,05/01/2020,15:00,Vallecano,Girona,1,0,H
+SP2,05/01/2020,20:00,Oviedo,Malaga,1,1,D
+SP2,07/01/2020,20:00,Zaragoza,Sp Gijon,2,0,H
+SP2,14/01/2020,18:00,Albacete,Fuenlabrada,1,1,D
+SP2,14/01/2020,18:00,Sp Gijon,Elche,1,0,H
+SP2,14/01/2020,19:00,Malaga,Ponferradina,1,0,H
+SP2,14/01/2020,20:30,Las Palmas,Zaragoza,0,1,A
+SP2,15/01/2020,18:00,Alcorcon,Numancia,2,2,D
+SP2,15/01/2020,18:00,Huesca,Tenerife,2,1,H
+SP2,15/01/2020,19:00,Vallecano,Lugo,1,0,H
+SP2,15/01/2020,20:00,Cadiz,Mirandes,3,3,D
+SP2,16/01/2020,18:00,La Coruna,Santander,2,1,H
+SP2,16/01/2020,19:00,Girona,Extremadura UD,3,1,H
+SP2,16/01/2020,20:00,Almeria,Oviedo,2,0,H
+SP2,17/01/2020,20:00,Fuenlabrada,Malaga,0,0,D
+SP2,18/01/2020,15:00,Numancia,Sp Gijon,2,0,H
+SP2,18/01/2020,17:15,Lugo,Albacete,1,0,H
+SP2,18/01/2020,17:15,Ponferradina,Vallecano,1,1,D
+SP2,19/01/2020,11:00,Elche,Alcorcon,1,1,D
+SP2,19/01/2020,15:00,La Coruna,Cadiz,1,0,H
+SP2,19/01/2020,17:15,Oviedo,Huesca,1,1,D
+SP2,19/01/2020,17:15,Santander,Las Palmas,1,1,D
+SP2,19/01/2020,19:30,Extremadura UD,Almeria,1,2,A
+SP2,19/01/2020,19:30,Tenerife,Girona,1,0,H
+SP2,24/01/2020,20:00,Cadiz,Santander,1,0,H
+SP2,25/01/2020,15:00,Huesca,Lugo,2,1,H
+SP2,25/01/2020,15:00,Sp Gijon,Fuenlabrada,1,0,H
+SP2,25/01/2020,17:15,Las Palmas,Tenerife,0,0,D
+SP2,25/01/2020,20:00,Zaragoza,Numancia,1,0,H
+SP2,26/01/2020,11:00,Malaga,Mirandes,2,2,D
+SP2,26/01/2020,15:00,Albacete,La Coruna,0,1,A
+SP2,26/01/2020,15:00,Almeria,Elche,0,2,A
+SP2,26/01/2020,17:15,Alcorcon,Ponferradina,3,1,H
+SP2,26/01/2020,17:15,Vallecano,Extremadura UD,1,1,D
+SP2,26/01/2020,19:30,Girona,Oviedo,1,1,D
+SP2,31/01/2020,20:00,Tenerife,Sp Gijon,2,1,H
+SP2,01/02/2020,15:00,Extremadura UD,Lugo,1,0,H
+SP2,01/02/2020,17:15,La Coruna,Las Palmas,2,1,H
+SP2,01/02/2020,17:15,Ponferradina,Huesca,3,1,H
+SP2,01/02/2020,20:00,Elche,Malaga,2,0,H
+SP2,02/02/2020,11:00,Fuenlabrada,Girona,0,1,A
+SP2,02/02/2020,15:00,Cadiz,Zaragoza,1,1,D
+SP2,02/02/2020,17:15,Mirandes,Vallecano,0,0,D
+SP2,02/02/2020,17:15,Numancia,Almeria,1,1,D
+SP2,02/02/2020,19:30,Oviedo,Albacete,3,1,H
+SP2,02/02/2020,19:30,Santander,Alcorcon,1,1,D
+SP2,07/02/2020,20:00,Almeria,Santander,0,1,A
+SP2,08/02/2020,15:00,Extremadura UD,Tenerife,2,4,A
+SP2,08/02/2020,15:00,Girona,Huesca,1,0,H
+SP2,08/02/2020,17:15,Las Palmas,Cadiz,1,2,A
+SP2,08/02/2020,20:00,Zaragoza,Fuenlabrada,0,0,D
+SP2,09/02/2020,11:00,Albacete,Ponferradina,1,1,D
+SP2,09/02/2020,11:00,Alcorcon,La Coruna,0,1,A
+SP2,09/02/2020,15:00,Sp Gijon,Mirandes,2,2,D
+SP2,09/02/2020,17:15,Lugo,Elche,2,2,D
+SP2,09/02/2020,17:15,Vallecano,Oviedo,1,1,D
+SP2,09/02/2020,19:30,Malaga,Numancia,2,1,H
+SP2,14/02/2020,20:00,La Coruna,Girona,2,2,D
+SP2,15/02/2020,15:00,Huesca,Almeria,3,2,H
+SP2,15/02/2020,17:15,Numancia,Las Palmas,1,1,D
+SP2,15/02/2020,17:15,Oviedo,Alcorcon,1,2,A
+SP2,15/02/2020,20:00,Elche,Zaragoza,1,2,A
+SP2,16/02/2020,11:00,Fuenlabrada,Lugo,0,1,A
+SP2,16/02/2020,11:00,Mirandes,Albacete,1,1,D
+SP2,16/02/2020,15:00,Cadiz,Malaga,0,1,A
+SP2,16/02/2020,17:15,Ponferradina,Extremadura UD,0,0,D
+SP2,16/02/2020,17:15,Santander,Sp Gijon,0,2,A
+SP2,16/02/2020,19:30,Tenerife,Vallecano,0,0,D
+SP2,19/02/2020,20:00,Mirandes,Zaragoza,1,1,D
+SP2,21/02/2020,20:00,Sp Gijon,Cadiz,1,0,H
+SP2,22/02/2020,15:00,Alcorcon,Las Palmas,1,1,D
+SP2,22/02/2020,15:00,Almeria,Fuenlabrada,0,0,D
+SP2,22/02/2020,17:15,Girona,Ponferradina,2,0,H
+SP2,22/02/2020,17:15,Tenerife,Elche,1,0,H
+SP2,22/02/2020,19:30,Albacete,Numancia,2,1,H
+SP2,23/02/2020,11:00,Lugo,Oviedo,1,0,H
+SP2,23/02/2020,15:00,Zaragoza,La Coruna,3,1,H
+SP2,23/02/2020,17:15,Extremadura UD,Mirandes,3,2,H
+SP2,23/02/2020,17:15,Malaga,Santander,2,0,H
+SP2,23/02/2020,20:00,Vallecano,Huesca,2,0,H
+SP2,28/02/2020,20:00,Las Palmas,Malaga,1,1,D
+SP2,29/02/2020,15:00,Huesca,Extremadura UD,2,2,D
+SP2,29/02/2020,15:00,Ponferradina,Sp Gijon,1,0,H
+SP2,29/02/2020,17:15,Cadiz,Almeria,2,1,H
+SP2,29/02/2020,19:30,Albacete,Vallecano,1,1,D
+SP2,29/02/2020,20:00,Santander,Zaragoza,2,2,D
+SP2,01/03/2020,11:00,Mirandes,Girona,1,1,D
+SP2,01/03/2020,15:00,Elche,Numancia,2,0,H
+SP2,01/03/2020,15:00,La Coruna,Lugo,0,0,D
+SP2,01/03/2020,17:15,Fuenlabrada,Alcorcon,3,4,A
+SP2,01/03/2020,17:15,Oviedo,Tenerife,1,0,H
+SP2,06/03/2020,20:00,Lugo,Cadiz,1,1,D
+SP2,07/03/2020,15:00,Extremadura UD,Oviedo,1,2,A
+SP2,07/03/2020,15:00,Girona,Albacete,1,1,D
+SP2,07/03/2020,17:15,Huesca,Fuenlabrada,2,0,H
+SP2,07/03/2020,17:15,Numancia,Santander,1,2,A
+SP2,07/03/2020,20:00,Almeria,La Coruna,4,0,H
+SP2,08/03/2020,11:00,Vallecano,Elche,2,3,A
+SP2,08/03/2020,15:00,Malaga,Zaragoza,0,1,A
+SP2,08/03/2020,17:15,Alcorcon,Mirandes,1,2,A
+SP2,08/03/2020,17:15,Sp Gijon,Las Palmas,4,0,H
+SP2,08/03/2020,19:30,Tenerife,Ponferradina,1,0,H
+SP2,10/06/2020,19:00,Vallecano,Albacete,1,0,H
+SP2,12/06/2020,18:30,Elche,Extremadura UD,1,1,D
+SP2,12/06/2020,18:30,Fuenlabrada,Tenerife,1,0,H
+SP2,12/06/2020,18:30,Malaga,Huesca,1,3,A
+SP2,12/06/2020,20:45,Oviedo,Ponferradina,0,0,D
+SP2,13/06/2020,16:00,Santander,Lugo,1,2,A
+SP2,13/06/2020,18:30,Las Palmas,Girona,0,0,D
+SP2,13/06/2020,20:30,Zaragoza,Alcorcon,1,3,A
+SP2,14/06/2020,16:00,La Coruna,Sp Gijon,0,0,D
+SP2,14/06/2020,16:00,Mirandes,Numancia,2,1,H
+SP2,14/06/2020,18:30,Albacete,Almeria,0,1,A
+SP2,14/06/2020,20:30,Cadiz,Vallecano,1,1,D
+SP2,15/06/2020,18:30,Ponferradina,Elche,2,1,H
+SP2,15/06/2020,20:30,Tenerife,Malaga,0,0,D
+SP2,16/06/2020,18:30,Lugo,Zaragoza,1,3,A
+SP2,16/06/2020,20:45,Girona,Santander,0,0,D
+SP2,17/06/2020,18:30,Almeria,Las Palmas,0,1,A
+SP2,17/06/2020,18:30,Extremadura UD,Albacete,0,1,A
+SP2,17/06/2020,18:30,Oviedo,La Coruna,2,2,D
+SP2,17/06/2020,20:45,Vallecano,Fuenlabrada,1,0,H
+SP2,18/06/2020,18:30,Huesca,Mirandes,1,2,A
+SP2,18/06/2020,18:30,Numancia,Cadiz,1,2,A
+SP2,18/06/2020,20:45,Alcorcon,Sp Gijon,0,2,A
+SP2,19/06/2020,18:30,Elche,Girona,1,0,H
+SP2,20/06/2020,16:00,La Coruna,Vallecano,3,3,D
+SP2,20/06/2020,18:30,Las Palmas,Lugo,1,0,H
+SP2,20/06/2020,18:30,Zaragoza,Almeria,0,2,A
+SP2,20/06/2020,20:45,Malaga,Extremadura UD,1,1,D
+SP2,21/06/2020,16:00,Mirandes,Ponferradina,1,2,A
+SP2,21/06/2020,16:00,Santander,Tenerife,1,2,A
+SP2,21/06/2020,18:30,Albacete,Huesca,2,2,D
+SP2,21/06/2020,18:30,Cadiz,Alcorcon,1,1,D
+SP2,21/06/2020,20:45,Fuenlabrada,Numancia,2,0,H
+SP2,22/06/2020,20:45,Sp Gijon,Oviedo,0,1,A
+SP2,23/06/2020,18:30,Elche,La Coruna,0,1,A
+SP2,23/06/2020,18:30,Lugo,Malaga,0,0,D
+SP2,23/06/2020,20:45,Extremadura UD,Zaragoza,1,2,A
+SP2,24/06/2020,18:30,Girona,Numancia,2,0,H
+SP2,24/06/2020,18:30,Huesca,Cadiz,1,1,D
+SP2,24/06/2020,18:30,Tenerife,Mirandes,4,1,H
+SP2,24/06/2020,20:45,Albacete,Las Palmas,0,0,D
+SP2,24/06/2020,20:45,Ponferradina,Santander,1,1,D
+SP2,25/06/2020,18:30,Almeria,Alcorcon,0,1,A
+SP2,25/06/2020,18:30,Vallecano,Sp Gijon,1,1,D
+SP2,25/06/2020,20:45,Oviedo,Fuenlabrada,0,0,D
+SP2,27/06/2020,16:00,La Coruna,Ponferradina,2,1,H
+SP2,27/06/2020,18:30,Cadiz,Tenerife,0,2,A
+SP2,27/06/2020,18:30,Las Palmas,Elche,1,1,D
+SP2,27/06/2020,20:45,Santander,Albacete,1,2,A
+SP2,28/06/2020,16:00,Mirandes,Almeria,2,2,D
+SP2,28/06/2020,16:00,Sp Gijon,Lugo,2,0,H
+SP2,28/06/2020,18:30,Malaga,Girona,2,0,H
+SP2,28/06/2020,18:30,Numancia,Oviedo,1,0,H
+SP2,28/06/2020,20:45,Fuenlabrada,Extremadura UD,1,1,D
+SP2,29/06/2020,18:30,Alcorcon,Vallecano,3,2,H
+SP2,29/06/2020,20:45,Zaragoza,Huesca,0,1,A
+SP2,30/06/2020,18:30,Tenerife,La Coruna,1,1,D
+SP2,30/06/2020,20:45,Elche,Cadiz,0,0,D
+SP2,01/07/2020,18:30,Almeria,Sp Gijon,1,0,H
+SP2,01/07/2020,18:30,Lugo,Numancia,3,1,H
+SP2,01/07/2020,18:30,Oviedo,Mirandes,1,0,H
+SP2,01/07/2020,20:45,Extremadura UD,Santander,3,1,H
+SP2,01/07/2020,20:45,Ponferradina,Fuenlabrada,0,3,A
+SP2,02/07/2020,18:30,Albacete,Alcorcon,1,1,D
+SP2,02/07/2020,18:30,Huesca,Las Palmas,1,0,H
+SP2,02/07/2020,20:45,Vallecano,Malaga,0,0,D
+SP2,03/07/2020,18:30,Girona,Zaragoza,1,0,H
+SP2,04/07/2020,16:00,Numancia,Extremadura UD,1,0,H
+SP2,04/07/2020,16:00,Santander,Elche,1,2,A
+SP2,04/07/2020,18:30,Almeria,Tenerife,1,2,A
+SP2,04/07/2020,20:45,Cadiz,Oviedo,2,0,H
+SP2,04/07/2020,20:45,Fuenlabrada,Mirandes,2,2,D
+SP2,05/07/2020,16:00,La Coruna,Huesca,2,1,H
+SP2,05/07/2020,18:30,Las Palmas,Ponferradina,3,0,H
+SP2,05/07/2020,18:30,Malaga,Albacete,0,0,D
+SP2,05/07/2020,20:45,Alcorcon,Lugo,2,2,D
+SP2,06/07/2020,18:30,Sp Gijon,Girona,0,0,D
+SP2,06/07/2020,20:45,Zaragoza,Vallecano,2,4,A
+SP2,07/07/2020,18:30,Mirandes,Elche,1,0,H
+SP2,07/07/2020,19:30,Fuenlabrada,Santander,1,0,H
+SP2,07/07/2020,20:45,Extremadura UD,Cadiz,0,1,A
+SP2,08/07/2020,18:30,Malaga,La Coruna,1,0,H
+SP2,08/07/2020,18:30,Oviedo,Las Palmas,2,1,H
+SP2,08/07/2020,20:45,Huesca,Alcorcon,2,1,H
+SP2,08/07/2020,20:45,Ponferradina,Lugo,0,1,A
+SP2,09/07/2020,18:30,Albacete,Sp Gijon,1,1,D
+SP2,09/07/2020,19:30,Vallecano,Numancia,3,2,H
+SP2,09/07/2020,20:45,Girona,Almeria,1,0,H
+SP2,09/07/2020,20:45,Tenerife,Zaragoza,1,1,D
+SP2,11/07/2020,16:00,Santander,Huesca,1,0,H
+SP2,11/07/2020,18:30,Las Palmas,Mirandes,1,0,H
+SP2,11/07/2020,20:45,Cadiz,Fuenlabrada,0,1,A
+SP2,12/07/2020,16:00,La Coruna,Extremadura UD,2,3,A
+SP2,12/07/2020,18:30,Lugo,Girona,2,2,D
+SP2,12/07/2020,18:30,Numancia,Ponferradina,1,0,H
+SP2,12/07/2020,20:45,Zaragoza,Oviedo,2,4,A
+SP2,13/07/2020,18:30,Almeria,Vallecano,3,2,H
+SP2,13/07/2020,18:30,Sp Gijon,Malaga,2,1,H
+SP2,13/07/2020,20:45,Alcorcon,Tenerife,0,0,D
+SP2,13/07/2020,20:45,Elche,Albacete,2,0,H
+SP2,17/07/2020,20:00,Albacete,Zaragoza,4,1,H
+SP2,17/07/2020,20:00,Extremadura UD,Sp Gijon,2,0,H
+SP2,17/07/2020,20:00,Fuenlabrada,Elche,3,1,H
+SP2,17/07/2020,20:00,Girona,Cadiz,2,1,H
+SP2,17/07/2020,20:00,Huesca,Numancia,3,0,H
+SP2,17/07/2020,20:00,Malaga,Alcorcon,2,0,H
+SP2,17/07/2020,20:00,Mirandes,La Coruna,1,0,H
+SP2,17/07/2020,20:00,Oviedo,Santander,1,0,H
+SP2,17/07/2020,20:00,Ponferradina,Almeria,2,1,H
+SP2,17/07/2020,20:00,Tenerife,Lugo,1,2,A
+SP2,17/07/2020,20:00,Vallecano,Las Palmas,2,2,D
+SP2,20/07/2020,17:30,Las Palmas,Extremadura UD,5,1,H
+SP2,20/07/2020,20:00,Alcorcon,Girona,2,0,H
+SP2,20/07/2020,20:00,Almeria,Malaga,0,0,D
+SP2,20/07/2020,20:00,Cadiz,Albacete,0,1,A
+SP2,20/07/2020,20:00,Elche,Oviedo,2,1,H
+SP2,20/07/2020,20:00,Lugo,Mirandes,2,1,H
+SP2,20/07/2020,20:00,Numancia,Tenerife,2,1,H
+SP2,20/07/2020,20:00,Santander,Vallecano,1,2,A
+SP2,20/07/2020,20:00,Sp Gijon,Huesca,0,1,A
+SP2,20/07/2020,20:00,Zaragoza,Ponferradina,2,1,H
+SP2,07/08/2020,20:00,La Coruna,Fuenlabrada,2,1,H
